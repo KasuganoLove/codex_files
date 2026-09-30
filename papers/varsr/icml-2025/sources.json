@@ -1,0 +1,62 @@
+{
+  "title": "Visual Autoregressive Modeling for Image Super-Resolution",
+  "authors": [
+    "Yunpeng Qu",
+    "Kun Yuan",
+    "Jinhua Hao",
+    "Kai Zhao",
+    "Qizhi Xie",
+    "Ming Sun",
+    "Chao Zhou"
+  ],
+  "citation": "Qu, Y., Yuan, K., Hao, J., Zhao, K., Xie, Q., Sun, M., and Zhou, C. (2025). Visual Autoregressive Modeling for Image Super-Resolution. Proceedings of the 42nd International Conference on Machine Learning, PMLR 267:50926–50948.",
+  "publication_url": "https://proceedings.mlr.press/v267/qu25h.html",
+  "original_pdf_url": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/qu25h/qu25h.pdf",
+  "version": "ICML2025 / PMLR267 official23-page PDF",
+  "copyright": "Copyright2025 by the authors",
+  "license": "CC BY4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "license_basis": {
+    "url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+    "locator": "§2 public CC BY4.0 grant; §3 requires formal citation and PMLR hyperlink"
+  },
+  "checked_at": "2026-09-30",
+  "files": [
+    {
+      "file": "paper.pdf",
+      "bytes": 8870261,
+      "sha256": "1eba2e84e7f821087a473c2ddd30730f2e0cf57f8cb3a8f669ed1bf571daa4d2",
+      "source_url": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/qu25h/qu25h.pdf",
+      "source_locator": "Entire article and appendices",
+      "modification": "Unmodified original PDF",
+      "license": "CC BY4.0",
+      "authors": [
+        "Yunpeng Qu",
+        "Kun Yuan",
+        "Jinhua Hao",
+        "Kai Zhao",
+        "Qizhi Xie",
+        "Ming Sun",
+        "Chao Zhou"
+      ]
+    },
+    {
+      "file": "figure-02.png",
+      "bytes": 71393,
+      "sha256": "3a0624613216bfd9662aac7dfaac2d136165c5c3112266ee9c8d8d5d570bc502",
+      "source_url": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/qu25h/qu25h.pdf#page=4",
+      "source_locator": "Figure2, PDF page4",
+      "modification": "PNG crop of Figure2 from PDF page4; content unchanged",
+      "license": "CC BY4.0",
+      "authors": [
+        "Yunpeng Qu",
+        "Kun Yuan",
+        "Jinhua Hao",
+        "Kai Zhao",
+        "Qizhi Xie",
+        "Ming Sun",
+        "Chao Zhou"
+      ]
+    }
+  ]
+}
