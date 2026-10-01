@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "paper": {
+    "title": "RealVDeblur: One-Step Diffusion for Generalizable Real-World Video Deblurring",
+    "authors": [
+      "Renbiao Jin",
+      "Mingxin Yang",
+      "Yutian Chen",
+      "Junhao Zhuang",
+      "Xin Cai",
+      "Mulin Yu",
+      "Linning Xu",
+      "Wenxian Yu",
+      "Danping Zou",
+      "Shi Guo",
+      "Tianfan Xue"
+    ],
+    "year": 2026,
+    "arxiv_id": "2607.20628",
+    "version": "v1",
+    "version_date": "2026-07-22",
+    "url": "https://arxiv.org/abs/2607.20628v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.20628v1",
+    "html_url": "https://arxiv.org/html/2607.20628v1",
+    "source_archive_url": "https://arxiv.org/src/2607.20628v1",
+    "source_archive_sha256": "3f7f33f795271f0316bf04c812a72fcb99c02c48d4eae8fdce06f91487e69681",
+    "paper_pdf_sha256": "54040d8fca5524262c2820911860b1c30fae3a3b6c74a2721ee2be79551e516c",
+    "license": "CC-BY-4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_evidence_url": "https://arxiv.org/abs/2607.20628v1"
+  },
+  "license_verification": {
+    "checked_on": "2026-10-01",
+    "exact_version_license": "The license link on the arXiv v1 abstract points to Creative Commons Attribution 4.0 International.",
+    "third_party_review": "No separate restrictive credit or exclusion was found in these two figure PDFs, their v1 captions, or the article and supplement source. The identified RSBlur and RealBlur datasets explicitly use CC BY 4.0 in their official repository READMEs.",
+    "scope": "Complete figures as published in this paper. This package does not distribute standalone benchmark datasets.",
+    "other_rights": "No author endorsement is implied. Copyright licensing does not waive other applicable rights."
+  },
+  "dataset_credits": {
+    "RSBlur": {
+      "title": "Realistic Blur Synthesis for Learning Image Deblurring",
+      "authors": [
+        "Jaesung Rim",
+        "Geonung Kim",
+        "Jungeon Kim",
+        "Junyong Lee",
+        "Seungyong Lee",
+        "Sunghyun Cho"
+      ],
+      "year": 2022,
+      "venue": "ECCV",
+      "source_url": "https://github.com/rimchang/RSBlur",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence_url": "https://github.com/rimchang/RSBlur#license",
+      "license_evidence_readme_sha256": "c9dff234f1507ac5744c61ba2423b1e3887b6678bbc76e99b35276f2949da9d5"
+    },
+    "RealBlur": {
+      "title": "Real-World Blur Dataset for Learning and Benchmarking Deblurring Algorithms",
+      "authors": [
+        "Jaesung Rim",
+        "Haeyun Lee",
+        "Jucheol Won",
+        "Sunghyun Cho"
+      ],
+      "year": 2020,
+      "venue": "ECCV",
+      "source_url": "https://github.com/rimchang/RealBlur",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence_url": "https://github.com/rimchang/RealBlur#license",
+      "license_evidence_readme_sha256": "56bd2dce2a7da1d4f22e82c3efdfb3a140587e8846f6af774d50df30cdba219c"
+    }
+  },
+  "files": [
+    {
+      "file": "additional_rsblur.webp",
+      "figure": "Figure S6",
+      "caption": "Additional visual comparisons on the RSBlur benchmark.",
+      "paper_pdf_page": 26,
+      "source_url": "https://arxiv.org/pdf/2607.20628v1#page=26",
+      "source_archive_url": "https://arxiv.org/src/2607.20628v1",
+      "source_archive_member": "additional_rsblur.pdf",
+      "source_figure_pdf_sha256": "9c87d668dd8cb7bf3bd96ba5f2175bf3351f587958bdd176f8fa748891773321",
+      "bytes": 3166868,
+      "sha256": "be5b04e6f8b8ff87d77d84f3733e1471a6af7d5e49f1096d231ee1aa2fdc2c67",
+      "media_type": "image/webp",
+      "width": 1932,
+      "height": 2406,
+      "rgba_sha256": "fa6a1af881588fb5c24c253ba0b4725a3c6c13aff9d57b0144996c98f730ae00",
+      "source_render_png_sha256": "84a50666ae5d526e25f4ea666c7dc183ac355a3b3291d82216aefde4f9bc341e",
+      "conversion": {
+        "source": "Complete single-page author-supplied figure PDF",
+        "rasterization": "PyMuPDF, scale 2 in both axes, RGB, opaque background",
+        "encoding": "Lossless WebP",
+        "changes": "Format conversion only. No crop, resizing after rasterization, relabeling, or generative edits. All original graphical panels, insets and labels retained.",
+        "pixel_verification": "Decoded RGBA bytes equal the original PNG rasterization; decoded RGB bytes equal a fresh full-page render of the source PDF.",
+        "rasterizer_version_verified": "1.26.6",
+        "pillow_version_verified": "12.3.0"
+      },
+      "dataset_credits": [
+        "RSBlur"
+      ],
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "file": "additional_realblur.webp",
+      "figure": "Figure S5",
+      "caption": "Additional visual comparisons on the RealBlur benchmark.",
+      "paper_pdf_page": 25,
+      "source_url": "https://arxiv.org/pdf/2607.20628v1#page=25",
+      "source_archive_url": "https://arxiv.org/src/2607.20628v1",
+      "source_archive_member": "additional_realblur.pdf",
+      "source_figure_pdf_sha256": "39015b606d9a5eeb77d016b32600fb5f3954ea9b331e7049e4ac969970abed84",
+      "bytes": 2065164,
+      "sha256": "09d9c08ad141a0724d3ab8ecdd19c9c2f71dfa4f663c7df13b042e8fe6b09700",
+      "media_type": "image/webp",
+      "width": 1934,
+      "height": 2406,
+      "rgba_sha256": "ee5d8cfd8aa0af340a362f05388da7ec1090a36766cd02c88038bb3379484a4c",
+      "source_render_png_sha256": "fb20b210ceee19ba918c195a17d3803cf7cc8a9d4a2de07c0e6c6456bd6f5bb0",
+      "conversion": {
+        "source": "Complete single-page author-supplied figure PDF",
+        "rasterization": "PyMuPDF, scale 2 in both axes, RGB, opaque background",
+        "encoding": "Lossless WebP",
+        "changes": "Format conversion only. No crop, resizing after rasterization, relabeling, or generative edits. All original graphical panels, insets and labels retained.",
+        "pixel_verification": "Decoded RGBA bytes equal the original PNG rasterization; decoded RGB bytes equal a fresh full-page render of the source PDF.",
+        "rasterizer_version_verified": "1.26.6",
+        "pillow_version_verified": "12.3.0"
+      },
+      "dataset_credits": [
+        "RealBlur"
+      ],
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}
