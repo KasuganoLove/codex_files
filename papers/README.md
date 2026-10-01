@@ -6,6 +6,9 @@
 
 - [VARSR · ICML 2025](varsr/icml-2025/ATTRIBUTION.md)：[论文原文](varsr/icml-2025/paper.pdf)、[方法图（Figure 2）](varsr/icml-2025/figure-02.png)、[来源与校验信息](varsr/icml-2025/sources.json)
 
+- [IMM · ICML 2025](imm/icml-2025/ATTRIBUTION.md)：[论文原文](imm/icml-2025/paper.pdf)、[来源与校验信息](imm/icml-2025/sources.json)
+- [GTASR · ICML 2026](gtasr/icml-2026/ATTRIBUTION.md)：[论文原文](gtasr/icml-2026/paper.pdf)、[来源与校验信息](gtasr/icml-2026/sources.json)
+
 ## 收录方式
 
 - 保留明确的论文版本与正式来源，避免不同版本混放

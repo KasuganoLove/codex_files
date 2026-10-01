@@ -1,0 +1,27 @@
+{
+  "title": "Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution",
+  "authors": [
+    "Chengyan Deng",
+    "Zhangquan Chen",
+    "Li Yu",
+    "Kai Zhang",
+    "Xue Zhou",
+    "Wang Zhang"
+  ],
+  "venue": "ICML 2026",
+  "publication": "PMLR 306:23891–23916, 2026",
+  "official_page": "https://proceedings.mlr.press/v306/deng26e.html",
+  "official_pdf": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/deng26e/deng26e.pdf",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "publisher_license_evidence": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+  "files": [
+    {
+      "path": "paper.pdf",
+      "sha256": "53982099171eff6f2c68d9053bdd40d9065ecd877560ebd26e17da9ae2f47627",
+      "bytes": 5057472,
+      "modified": false
+    }
+  ],
+  "checked_at": "2026-10-01"
+}

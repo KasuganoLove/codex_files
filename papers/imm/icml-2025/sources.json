@@ -1,0 +1,24 @@
+{
+  "title": "Inductive Moment Matching",
+  "authors": [
+    "Linqi Zhou",
+    "Stefano Ermon",
+    "Jiaming Song"
+  ],
+  "venue": "ICML 2025",
+  "publication": "PMLR 267:78651–78686, 2025",
+  "official_page": "https://proceedings.mlr.press/v267/zhou25c.html",
+  "official_pdf": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/zhou25c/zhou25c.pdf",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "publisher_license_evidence": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+  "files": [
+    {
+      "path": "paper.pdf",
+      "sha256": "6dd429047b2606fa29912d71532700e139d1e24787369d575ab590e3ea2ff700",
+      "bytes": 7490812,
+      "modified": false
+    }
+  ],
+  "checked_at": "2026-10-01"
+}
