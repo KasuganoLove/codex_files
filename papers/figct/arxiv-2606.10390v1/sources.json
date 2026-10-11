@@ -1,0 +1,24 @@
+{
+  "title": "Foveated-Imaging Geometry CT Architecture and Seeded Diffusion Model Enabling Global Super-Resolution Reconstruction",
+  "authors": [
+    "Wenxin Mo",
+    "Yingxian Xia",
+    "Yongle Yan",
+    "Hao Zhou",
+    "Li Zhang",
+    "Hewei Gao"
+  ],
+  "arxiv_version": "2606.10390v1",
+  "official_page": "https://arxiv.org/abs/2606.10390v1",
+  "official_pdf": "https://arxiv.org/pdf/2606.10390v1",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "license_evidence": "The view license link on the exact-version official arXiv page points to CC BY 4.0.",
+  "archived_file": {
+    "path": "paper.pdf",
+    "bytes": 5724708,
+    "sha256": "73b8b1743e7ae074a02d0a8e004bca9533bb41ad837949008bcfa4ff6c86202c",
+    "modified": false
+  },
+  "verified_utc_date": "2026-10-11"
+}
