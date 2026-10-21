@@ -1,0 +1,46 @@
+{
+  "title": "Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory",
+  "authors": [
+    "Ruiqi Wu",
+    "Xuanhua He",
+    "Meng Cheng",
+    "Tianyu Yang",
+    "Yong Zhang",
+    "Zhuoliang Kang",
+    "Xunliang Cai",
+    "Xiaoming Wei",
+    "Chunle Guo",
+    "Chongyi Li",
+    "Ming-Ming Cheng"
+  ],
+  "arxiv_version": "2602.02393v2",
+  "official_page": "https://arxiv.org/abs/2602.02393v2",
+  "official_html": "https://arxiv.org/html/2602.02393v2",
+  "official_pdf": "https://arxiv.org/pdf/2602.02393v2",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "license_evidence_url": "https://arxiv.org/html/2602.02393v2",
+  "attribution_file": "ATTRIBUTION.md",
+  "files": [
+    {
+      "file": "figure-07-sha256-76e183d074fd46ee869abf5533ddf9189acc7269a23121306fbf7bed65f7187f.png",
+      "figure": 7,
+      "pdf_page": 13,
+      "bytes": 5434894,
+      "sha256": "76e183d074fd46ee869abf5533ddf9189acc7269a23121306fbf7bed65f7187f",
+      "media_type": "image/png",
+      "width": 1461,
+      "height": 1800
+    },
+    {
+      "file": "figure-08-sha256-225b1129cc8a94078a4727c427fd2067e429a502c309c153d2a124b105d13088.png",
+      "figure": 8,
+      "pdf_page": 14,
+      "bytes": 5855858,
+      "sha256": "225b1129cc8a94078a4727c427fd2067e429a502c309c153d2a124b105d13088",
+      "media_type": "image/png",
+      "width": 1461,
+      "height": 1800
+    }
+  ]
+}
