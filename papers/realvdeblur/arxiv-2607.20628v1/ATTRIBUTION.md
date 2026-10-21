@@ -32,3 +32,15 @@ The authors' complete single-page figure PDFs were rasterized with PyMuPDF at 2Ã
 License checks were made on 1 October 2026 against the exact arXiv v1 and the official dataset repositories. No figure-specific restrictive credit or exclusion was found for these two figures in the author PDFs, captions, or v1 article and supplement source.
 
 When redistributing, retain appropriate creator and dataset attribution, link to the source and CC BY 4.0 license, and indicate any further changes. Do not imply endorsement by the authors or dataset creators. No additional restrictions are imposed by this copy. This package licenses no standalone dataset collection and makes no representation that other applicable rights, including privacy, publicity, or trademark rights, are waived.
+
+## Additional complete figures (21 October 2026)
+
+- **fig_teaser.webp**: Figure 1, PDF page 2, real-world video deblurring comparisons. Source archive member: fig_teaser.pdf.
+- **fig2.webp**: Figure 3, PDF page 12, comparisons across real-world evaluation datasets. Source archive member: fig2.pdf.
+- **additional_fevd.webp**: Figure S7, PDF page 27, further FEVD comparisons. Source archive member: additional_fevd.pdf.
+
+These three complete figures are credited to the eleven RealVDeblur authors named above and come from the same fixed arXiv:2607.20628v1 article under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The [fixed-version HTML](https://arxiv.org/html/2607.20628v1) and captions were checked on 21 October 2026; no separate restrictive notice was found for Figures 1, 3, or S7.
+
+The author-supplied single-page figure PDFs were rendered at scale 2 and encoded as lossless WebP. Original panels and labels remain intact, without any new crop, annotation, or generative editing. These are graphical figures, not the paper's typeset captions. Prior decoded-RGBA verification matched the original PNG rasterization; sources.json records the exact file and pixel hashes.
+
+This addition redistributes complete article figures, not a standalone dataset. It does not assert a separate CC BY license for FEVD, BSD, or the teaser's source footage. Original benchmark labels and credits are retained; the RealBlur and RSBlur credits above remain applicable where shown. Retain the paper/creator attribution and license link and identify any further changes. No author or dataset-creator endorsement is implied.

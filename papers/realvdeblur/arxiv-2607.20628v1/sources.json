@@ -134,6 +134,100 @@
       ],
       "license": "CC-BY-4.0",
       "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "file": "fig_teaser.webp",
+      "figure": "Figure 1",
+      "description": "Real-world video deblurring comparisons.",
+      "paper_pdf_page": 2,
+      "source_url": "https://arxiv.org/pdf/2607.20628v1#page=2",
+      "source_archive_url": "https://arxiv.org/src/2607.20628v1",
+      "source_archive_member": "fig_teaser.pdf",
+      "source_figure_pdf_sha256": "d817e45db0bcfe63af550e121970ebb29ce2615f69118ed65051845e66dab114",
+      "bytes": 2568976,
+      "sha256": "745abfd406753395a439864e33c568ad2725b4ed3a145533621210dca00613f1",
+      "media_type": "image/webp",
+      "width": 3333,
+      "height": 1153,
+      "rgba_sha256": "aac58cad9556754af83096a5f61908125f1a07f885db67e80c88a37dde318562",
+      "source_render_png_sha256": "aa9a83324185d1e1f7c495f563ee834b5efdec328c4222e0b41d53a72598911d",
+      "conversion": {
+        "source": "Complete single-page author-supplied figure PDF",
+        "rasterization": "PyMuPDF, scale 2 in both axes",
+        "encoding": "Lossless WebP",
+        "changes": "Format conversion only. Original panels and labels retained; no new crop, annotations, or generative editing.",
+        "prior_pixel_verification": "Decoded RGBA pixels matched the original PNG rasterization."
+      },
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence_url": "https://arxiv.org/html/2607.20628v1"
+    },
+    {
+      "file": "additional_fevd.webp",
+      "figure": "Figure S7",
+      "description": "Further comparisons on FEVD.",
+      "paper_pdf_page": 27,
+      "source_url": "https://arxiv.org/pdf/2607.20628v1#page=27",
+      "source_archive_url": "https://arxiv.org/src/2607.20628v1",
+      "source_archive_member": "additional_fevd.pdf",
+      "source_figure_pdf_sha256": "74ef8aebf0cacf60f3b56116dc8332cff97944db0e2fa4ec53021bdb7698c80f",
+      "bytes": 2516322,
+      "sha256": "05e0361afc094ac9e978c8ba1ae26748dcbcb9981ffe5a9221dd4e2163d5bd23",
+      "media_type": "image/webp",
+      "width": 1934,
+      "height": 2404,
+      "rgba_sha256": "002bdc91578d800dd3eeb05143bfe3b590098cec07bd197eff8252c86893262f",
+      "source_render_png_sha256": "d4abfc8ff0e457316b29bce37cbc5a3dd735141a1238b4f8b836ae37799dbba0",
+      "conversion": {
+        "source": "Complete single-page author-supplied figure PDF",
+        "rasterization": "PyMuPDF, scale 2 in both axes",
+        "encoding": "Lossless WebP",
+        "changes": "Format conversion only. Original panels and labels retained; no new crop, annotations, or generative editing.",
+        "prior_pixel_verification": "Decoded RGBA pixels matched the original PNG rasterization."
+      },
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence_url": "https://arxiv.org/html/2607.20628v1"
+    },
+    {
+      "file": "fig2.webp",
+      "figure": "Figure 3",
+      "description": "Comparisons across real-world evaluation datasets.",
+      "paper_pdf_page": 12,
+      "source_url": "https://arxiv.org/pdf/2607.20628v1#page=12",
+      "source_archive_url": "https://arxiv.org/src/2607.20628v1",
+      "source_archive_member": "fig2.pdf",
+      "source_figure_pdf_sha256": "331e28480655314bc4ecbf2a38ad2a61ac333b300408a1a92910c78dfcfc4554",
+      "bytes": 2078018,
+      "sha256": "d35c45997f247888b7513ce5608952ce791f3472b3399dd0287d23bd36dc7c4b",
+      "media_type": "image/webp",
+      "width": 1946,
+      "height": 2421,
+      "rgba_sha256": "aef5f357e22bc7bdcfd82c015c6ba334f1d6acef08c61a3b5ccfa32be9b9112f",
+      "source_render_png_sha256": "731288f2fd641d734b225aa9b7ae05c112a4dd10919d596edf18a1ab7b9ca826",
+      "conversion": {
+        "source": "Complete single-page author-supplied figure PDF",
+        "rasterization": "PyMuPDF, scale 2 in both axes",
+        "encoding": "Lossless WebP",
+        "changes": "Format conversion only. Original panels and labels retained; no new crop, annotations, or generative editing.",
+        "prior_pixel_verification": "Decoded RGBA pixels matched the original PNG rasterization."
+      },
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence_url": "https://arxiv.org/html/2607.20628v1"
     }
-  ]
+  ],
+  "additional_figure_license_verification": {
+    "checked_on": "2026-10-21",
+    "files": [
+      "fig_teaser.webp",
+      "additional_fevd.webp",
+      "fig2.webp"
+    ],
+    "evidence_url": "https://arxiv.org/html/2607.20628v1",
+    "exact_version_license": "The fixed arXiv v1 article identifies CC BY 4.0.",
+    "figure_review": "No separate restrictive notice was found in the captions of Figures 1, 3, and S7.",
+    "scope": "Complete figures from the licensed article only. This does not establish a separate CC BY license for FEVD, BSD, or the source footage, and no standalone benchmark dataset is distributed.",
+    "credits": "Original figure labels and benchmark credits are retained. The existing RealBlur and RSBlur dataset credits remain applicable where shown. No endorsement is implied."
+  }
 }
