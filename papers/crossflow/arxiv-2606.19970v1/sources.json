@@ -1,0 +1,33 @@
+{
+  "schema": "public-paper-assets-v1",
+  "title": "CrossFlow: One-Step Generation Across Latent and Pixel Spaces",
+  "authors": [
+    "Xiyuan Wang",
+    "Xiao Zhang",
+    "Yang Li",
+    "Ruoxi Jiang",
+    "Zhao Zhong",
+    "Liefeng Bo",
+    "Muhan Zhang"
+  ],
+  "source_version": "2606.19970v1",
+  "official_paper_url": "https://arxiv.org/abs/2606.19970v1",
+  "official_html_url": "https://arxiv.org/html/2606.19970v1",
+  "official_pdf_url": "https://arxiv.org/pdf/2606.19970v1",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "license_evidence_url": "https://arxiv.org/abs/2606.19970v1",
+  "checked_at": "2026-11-09",
+  "modifications": "Figure 4 excerpt rasterized from the paper and losslessly converted to WebP. The caption and scientific contents are retained. The PDF is linked at its official fixed-version URL and is not copied here.",
+  "files": [
+    {
+      "path": "figure-04-gan-schedule.webp",
+      "bytes": 21870,
+      "sha256": "06092e1e7531526aca07013d9ea0903a64c0fb50cb8fef6089f51dee5d56e86d",
+      "git_blob_sha1": "221648400f7fefff63ec2f9cb7443f0263f78c80",
+      "source_figure_or_table": "figure-04-gan-schedule",
+      "official_source_url": "https://arxiv.org/html/2606.19970v1",
+      "modifications": "Raster excerpt, lossless WebP conversion."
+    }
+  ]
+}
