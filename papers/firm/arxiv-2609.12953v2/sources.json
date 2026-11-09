@@ -1,0 +1,589 @@
+{
+  "schema": "public-paper-image-sources-1",
+  "scope": "Only individually reviewed paper image bytes and attribution; no datasets, code, model weights, full paper PDFs, private notes or credentials.",
+  "canonical_source_recovery": "These objects preserve the exact PNG bytes of the cited figure excerpts. Official original links remain identified in their source records. Runtime adoption and source retirement are separate steps.",
+  "assets": [
+    {
+      "asset_key": "firm-2026/firm-algorithm",
+      "sha256": "69d6223d3b5fa620f3ff0e4f70dc84a6ee88ad12d412ec4e067802dff360336f",
+      "bytes": 58043,
+      "dimensions": [
+        1212,
+        387
+      ],
+      "rgba_sha256": "0aebb1ac3c62c1090751e45ceddcccd79f2da182de6b1606be38673a5c23b864",
+      "title": "FIRM: Flow-based Imaging via Regularized Minimization",
+      "authors": [
+        "Shirin Shoushtari",
+        "Edward P. Chandler",
+        "Xiao Shi",
+        "Ulugbek S. Kamilov"
+      ],
+      "source_url": "https://arxiv.org/pdf/2609.12953v2#page=19",
+      "source_locator": "AppendixB / Algorithm3；PDF第19页",
+      "source_page": 19,
+      "licensed_version_url": "https://arxiv.org/html/2609.12953v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Algorithm 3 Operator-aware posterior-mean estimation"
+      ],
+      "attribution": "Shirin Shoushtari, Edward P. Chandler, Xiao Shi, Ulugbek S. Kamilov; FIRM: Flow-based Imaging via Regularized Minimization; AppendixB / Algorithm3；PDF第19页; https://arxiv.org/html/2609.12953v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2609.12953v2#alg3"
+      ],
+      "repository_path": "papers/firm/arxiv-2609.12953v2/firm-algorithm-69d6223d3b5f.png",
+      "git_blob_sha1": "fab4e3616d317ebf60f30383da2130fa54890a91",
+      "file": "firm-algorithm-69d6223d3b5f.png"
+    },
+    {
+      "asset_key": "firm-2026/firm-train-sample",
+      "sha256": "e71c0d3770154dd80aa45186cf0c74c16af151a8f4258bd3cfb3405bd38e2159",
+      "bytes": 87894,
+      "dimensions": [
+        1212,
+        384
+      ],
+      "rgba_sha256": "836a39787f3dcb799cd1eeb2c4ba410703b5af308ed9184ebd3aa8634f9d49eb",
+      "title": "FIRM: Flow-based Imaging via Regularized Minimization",
+      "authors": [
+        "Shirin Shoushtari",
+        "Edward P. Chandler",
+        "Xiao Shi",
+        "Ulugbek S. Kamilov"
+      ],
+      "source_url": "https://arxiv.org/pdf/2609.12953v2#page=5",
+      "source_locator": "Algorithms1–2；PDF第5页",
+      "source_page": 5,
+      "licensed_version_url": "https://arxiv.org/html/2609.12953v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Algorithm 1 Training",
+        "Algorithm 2 Sampling"
+      ],
+      "attribution": "Shirin Shoushtari, Edward P. Chandler, Xiao Shi, Ulugbek S. Kamilov; FIRM: Flow-based Imaging via Regularized Minimization; Algorithms1–2；PDF第5页; https://arxiv.org/html/2609.12953v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2609.12953v2#alg1",
+        "https://arxiv.org/html/2609.12953v2#alg2"
+      ],
+      "repository_path": "papers/firm/arxiv-2609.12953v2/firm-train-sample-e71c0d377015.png",
+      "git_blob_sha1": "1aaa46591170fd1987d07569a5c9ee02199f238d",
+      "file": "firm-train-sample-e71c0d377015.png"
+    },
+    {
+      "asset_key": "firm-2026/firm-table-celeba",
+      "sha256": "9bd109561c87be825cc611e63a1e963f5f963b4421b1e7655bfea664e421b3ef",
+      "bytes": 176251,
+      "dimensions": [
+        1212,
+        630
+      ],
+      "rgba_sha256": "83fdd0c1fc0fe116ffe3e60ec75ade6c07dea0e4e68985b288947d777ac27698",
+      "title": "FIRM: Flow-based Imaging via Regularized Minimization",
+      "authors": [
+        "Shirin Shoushtari",
+        "Edward P. Chandler",
+        "Xiao Shi",
+        "Ulugbek S. Kamilov"
+      ],
+      "source_url": "https://arxiv.org/pdf/2609.12953v2#page=5",
+      "source_locator": "MainTable1；PDF第5页",
+      "source_page": 5,
+      "licensed_version_url": "https://arxiv.org/html/2609.12953v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 1: Quantitative results on 100 CelebA test images. Best and second-best results are highlighted in blue and red, respectively. Our method achieves the best reconstruction quality while attaining competitive perceptual quality."
+      ],
+      "attribution": "Shirin Shoushtari, Edward P. Chandler, Xiao Shi, Ulugbek S. Kamilov; FIRM: Flow-based Imaging via Regularized Minimization; MainTable1；PDF第5页; https://arxiv.org/html/2609.12953v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2609.12953v2#S4.T1"
+      ],
+      "repository_path": "papers/firm/arxiv-2609.12953v2/firm-table-celeba-9bd109561c87.png",
+      "git_blob_sha1": "00a35d919104caa93a928bab3c17c0e7527eae93",
+      "file": "firm-table-celeba-9bd109561c87.png"
+    },
+    {
+      "asset_key": "firm-2026/firm-table-afhq",
+      "sha256": "edced952dbab6b4c4b769b56ce41af3a04471f8c2986a0f82a51c4c6752258aa",
+      "bytes": 182929,
+      "dimensions": [
+        1212,
+        630
+      ],
+      "rgba_sha256": "a9809615bf1906e4634e284284d98cfd53357df2cc7937716251596482c19762",
+      "title": "FIRM: Flow-based Imaging via Regularized Minimization",
+      "authors": [
+        "Shirin Shoushtari",
+        "Edward P. Chandler",
+        "Xiao Shi",
+        "Ulugbek S. Kamilov"
+      ],
+      "source_url": "https://arxiv.org/pdf/2609.12953v2#page=8",
+      "source_locator": "MainTable2；PDF第8页",
+      "source_page": 8,
+      "licensed_version_url": "https://arxiv.org/html/2609.12953v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 2: Quantitative results on 100 AFHQ-Cat test images. Best and second-best results are highlighted in blue and red, respectively. Our method achieves the best reconstruction quality while attaining the best or competitive perceptual quality."
+      ],
+      "attribution": "Shirin Shoushtari, Edward P. Chandler, Xiao Shi, Ulugbek S. Kamilov; FIRM: Flow-based Imaging via Regularized Minimization; MainTable2；PDF第8页; https://arxiv.org/html/2609.12953v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2609.12953v2#S4.T2"
+      ],
+      "repository_path": "papers/firm/arxiv-2609.12953v2/firm-table-afhq-edced952dbab.png",
+      "git_blob_sha1": "c110b45c49e06a76342f9a8c1f40861b6dd8ef76",
+      "file": "firm-table-afhq-edced952dbab.png"
+    },
+    {
+      "asset_key": "firm-2026/firm-cost",
+      "sha256": "5c689dd02af47200ce5dda2f0006f57de549e11cae47e237796e75d9eef4190e",
+      "bytes": 62650,
+      "dimensions": [
+        1212,
+        306
+      ],
+      "rgba_sha256": "79e90f592e81f560e80565bbc28cede5f558051089672d77616d974b18b088b0",
+      "title": "FIRM: Flow-based Imaging via Regularized Minimization",
+      "authors": [
+        "Shirin Shoushtari",
+        "Edward P. Chandler",
+        "Xiao Shi",
+        "Ulugbek S. Kamilov"
+      ],
+      "source_url": "https://arxiv.org/pdf/2609.12953v2#page=8",
+      "source_locator": "MainTable3；PDF第8页",
+      "source_page": 8,
+      "licensed_version_url": "https://arxiv.org/html/2609.12953v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 3: Computation time, memory usage, and number of function evaluations (NFEs) for the deblurring task on CelebA (128×128128\\times 128). Lower is better for all metrics. Best and second best results are shown in blue and red ."
+      ],
+      "attribution": "Shirin Shoushtari, Edward P. Chandler, Xiao Shi, Ulugbek S. Kamilov; FIRM: Flow-based Imaging via Regularized Minimization; MainTable3；PDF第8页; https://arxiv.org/html/2609.12953v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2609.12953v2#S4.T3"
+      ],
+      "repository_path": "papers/firm/arxiv-2609.12953v2/firm-cost-5c689dd02af4.png",
+      "git_blob_sha1": "528b285554584eab6bd6ed7e113e3143806a09c3",
+      "file": "firm-cost-5c689dd02af4.png"
+    },
+    {
+      "asset_key": "firm-2026/firm-k-noise",
+      "sha256": "b3338d60df5d60412d60c7f712a49646f5c3b86169721c8325c9f9f9a170973d",
+      "bytes": 41036,
+      "dimensions": [
+        1212,
+        228
+      ],
+      "rgba_sha256": "3fb2a975d4dfa657fed04e9b233a78d6c29a8a60b5e082da4ab1b6e2db99af99",
+      "title": "FIRM: Flow-based Imaging via Regularized Minimization",
+      "authors": [
+        "Shirin Shoushtari",
+        "Edward P. Chandler",
+        "Xiao Shi",
+        "Ulugbek S. Kamilov"
+      ],
+      "source_url": "https://arxiv.org/pdf/2609.12953v2#page=9",
+      "source_locator": "MainTables4–5；PDF第9页",
+      "source_page": 9,
+      "licensed_version_url": "https://arxiv.org/html/2609.12953v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 4: Iteration depth KK",
+        "Table 5: Noise-level mismatch."
+      ],
+      "attribution": "Shirin Shoushtari, Edward P. Chandler, Xiao Shi, Ulugbek S. Kamilov; FIRM: Flow-based Imaging via Regularized Minimization; MainTables4–5；PDF第9页; https://arxiv.org/html/2609.12953v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2609.12953v2#S4.T5.fig1",
+        "https://arxiv.org/html/2609.12953v2#S4.T5.fig2"
+      ],
+      "repository_path": "papers/firm/arxiv-2609.12953v2/firm-k-noise-b3338d60df5d.png",
+      "git_blob_sha1": "37ebd28900cc8d457717748746db55cc9f13b6e7",
+      "file": "firm-k-noise-b3338d60df5d.png"
+    },
+    {
+      "asset_key": "firm-2026/firm-mask-table",
+      "sha256": "d28482efee55310a6c69df468514c23541de973904cb2f392e1108c87e655452",
+      "bytes": 59206,
+      "dimensions": [
+        591,
+        426
+      ],
+      "rgba_sha256": "6816e024b4acb1d5da0a3776bad8d2248cdce25aab56b6f299452fd931698e10",
+      "title": "FIRM: Flow-based Imaging via Regularized Minimization",
+      "authors": [
+        "Shirin Shoushtari",
+        "Edward P. Chandler",
+        "Xiao Shi",
+        "Ulugbek S. Kamilov"
+      ],
+      "source_url": "https://arxiv.org/pdf/2609.12953v2#page=9",
+      "source_locator": "MainTable6；PDF第9页",
+      "source_page": 9,
+      "licensed_version_url": "https://arxiv.org/html/2609.12953v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 6: Sensitivity to operator mismatch in random inpainting. A model trained at mask ratio p=0.7p{=}0.7 (†\\dagger) is evaluated at different test-time mask ratios without retraining. Although reconstruction quality decreases as more pixels are removed, performance does not exhibit abrupt degradation under mismatch."
+      ],
+      "attribution": "Shirin Shoushtari, Edward P. Chandler, Xiao Shi, Ulugbek S. Kamilov; FIRM: Flow-based Imaging via Regularized Minimization; MainTable6；PDF第9页; https://arxiv.org/html/2609.12953v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2609.12953v2#S4.T6"
+      ],
+      "repository_path": "papers/firm/arxiv-2609.12953v2/firm-mask-table-d28482efee55.png",
+      "git_blob_sha1": "1b49ddfbe3e0c634812efe6ffd9d11e209e900da",
+      "file": "firm-mask-table-d28482efee55.png"
+    },
+    {
+      "asset_key": "firm-2026/firm-hparams",
+      "sha256": "6da631bb28a3491ee2a352ae9e432bb6a55a1a999a69daf3c7ebeac55456c4db",
+      "bytes": 108416,
+      "dimensions": [
+        1212,
+        807
+      ],
+      "rgba_sha256": "79eee33d53405464e8382520bbf4f35dc43e0e87c3df1243fc3ed0e4e2d3d99d",
+      "title": "FIRM: Flow-based Imaging via Regularized Minimization",
+      "authors": [
+        "Shirin Shoushtari",
+        "Edward P. Chandler",
+        "Xiao Shi",
+        "Ulugbek S. Kamilov"
+      ],
+      "source_url": "https://arxiv.org/pdf/2609.12953v2#page=22",
+      "source_locator": "AppendixD / Table7；PDF第22页",
+      "source_page": 22,
+      "licensed_version_url": "https://arxiv.org/html/2609.12953v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 7: Hyperparameters. All values are held fixed across the five tasks unless noted."
+      ],
+      "attribution": "Shirin Shoushtari, Edward P. Chandler, Xiao Shi, Ulugbek S. Kamilov; FIRM: Flow-based Imaging via Regularized Minimization; AppendixD / Table7；PDF第22页; https://arxiv.org/html/2609.12953v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2609.12953v2#A4.T7"
+      ],
+      "repository_path": "papers/firm/arxiv-2609.12953v2/firm-hparams-6da631bb28a3.png",
+      "git_blob_sha1": "518ae5367ca475f4bb0f71540082f87f2838ca08",
+      "file": "firm-hparams-6da631bb28a3.png"
+    },
+    {
+      "asset_key": "firm-2026/firm-hqs-ablation",
+      "sha256": "45e5a0f59735cbdec8a4a698ecc7f150e81c3da3e10afdf7042e03c52665ca52",
+      "bytes": 113877,
+      "dimensions": [
+        1212,
+        516
+      ],
+      "rgba_sha256": "93866ee63c5a09b64cfc637bcf00205696092c9e8da719750ada939940f105cb",
+      "title": "FIRM: Flow-based Imaging via Regularized Minimization",
+      "authors": [
+        "Shirin Shoushtari",
+        "Edward P. Chandler",
+        "Xiao Shi",
+        "Ulugbek S. Kamilov"
+      ],
+      "source_url": "https://arxiv.org/pdf/2609.12953v2#page=23",
+      "source_locator": "AppendixE.2 / Table9；PDF第23页",
+      "source_page": 23,
+      "licensed_version_url": "https://arxiv.org/html/2609.12953v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 9: Ablation of the operator embedding on CelebA (100100 images). Flow-only is the same U-Net trained under the same objective on the concatenation of 𝑨⊤​𝒚{\\bm{A}}^{\\top}{\\bm{y}} and 𝒙t{\\bm{x}}_{t}, without the HQS solver, costing one network call per Euler step against our K=5K{=}5; rows are matched by step count NN, so our entries use five times the function evaluations. Better of each pair in bold."
+      ],
+      "attribution": "Shirin Shoushtari, Edward P. Chandler, Xiao Shi, Ulugbek S. Kamilov; FIRM: Flow-based Imaging via Regularized Minimization; AppendixE.2 / Table9；PDF第23页; https://arxiv.org/html/2609.12953v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2609.12953v2#A5.T9"
+      ],
+      "repository_path": "papers/firm/arxiv-2609.12953v2/firm-hqs-ablation-45e5a0f59735.png",
+      "git_blob_sha1": "e924128bbad9bf4637ba56d4c7819b32949f7dce",
+      "file": "firm-hqs-ablation-45e5a0f59735.png"
+    },
+    {
+      "asset_key": "firm-2026/firm-beta",
+      "sha256": "143f3e4e7200ef2534688536a65108b3bb7e7ceaba2abff440ee2336a4a1161e",
+      "bytes": 24268,
+      "dimensions": [
+        513,
+        255
+      ],
+      "rgba_sha256": "291006e9df678641f0c26de2511cee7eb4f9e9456e9bdcbf3f501a76f663c3fb",
+      "title": "FIRM: Flow-based Imaging via Regularized Minimization",
+      "authors": [
+        "Shirin Shoushtari",
+        "Edward P. Chandler",
+        "Xiao Shi",
+        "Ulugbek S. Kamilov"
+      ],
+      "source_url": "https://arxiv.org/pdf/2609.12953v2#page=23",
+      "source_locator": "AppendixE.1 / Table8；PDF第23页",
+      "source_page": 23,
+      "licensed_version_url": "https://arxiv.org/html/2609.12953v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 8: Damping β\\beta"
+      ],
+      "attribution": "Shirin Shoushtari, Edward P. Chandler, Xiao Shi, Ulugbek S. Kamilov; FIRM: Flow-based Imaging via Regularized Minimization; AppendixE.1 / Table8；PDF第23页; https://arxiv.org/html/2609.12953v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2609.12953v2#A5.T8"
+      ],
+      "repository_path": "papers/firm/arxiv-2609.12953v2/firm-beta-143f3e4e7200.png",
+      "git_blob_sha1": "d83a5e076393749a9cf1bd45fd23a99ac8fcb0a9",
+      "file": "firm-beta-143f3e4e7200.png"
+    },
+    {
+      "asset_key": "firm-2026/firm-toy-posterior",
+      "sha256": "e0010a21b88914ba7f6d1a41de5f66e4296ca205ab59cec59d3a5fdbab665254",
+      "bytes": 171265,
+      "dimensions": [
+        1212,
+        1146
+      ],
+      "rgba_sha256": "d889a6f8fde8e45dbba9a15a85c965c81bb52b683cf2eb91a3f820b123cf8cb3",
+      "title": "FIRM: Flow-based Imaging via Regularized Minimization",
+      "authors": [
+        "Shirin Shoushtari",
+        "Edward P. Chandler",
+        "Xiao Shi",
+        "Ulugbek S. Kamilov"
+      ],
+      "source_url": "https://arxiv.org/pdf/2609.12953v2#page=24",
+      "source_locator": "AppendixE.3 / Figure4；PDF第24页",
+      "source_page": 24,
+      "licensed_version_url": "https://arxiv.org/html/2609.12953v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Figure 4: Posterior recovery at N=50N{=}50. Top: samples (blue) and analytical posterior contours (red) for measurements near u=±1.5u=\\pm 1.5; the posterior mean (×\\times) lies between the modes. Bottom: sampled and analytical marginals p⁡(v|𝒚)p(v|{\\bm{y}})."
+      ],
+      "attribution": "Shirin Shoushtari, Edward P. Chandler, Xiao Shi, Ulugbek S. Kamilov; FIRM: Flow-based Imaging via Regularized Minimization; AppendixE.3 / Figure4；PDF第24页; https://arxiv.org/html/2609.12953v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2609.12953v2#A5.F4"
+      ],
+      "repository_path": "papers/firm/arxiv-2609.12953v2/firm-toy-posterior-e0010a21b889.png",
+      "git_blob_sha1": "b3eac107105e7cecd7aa87d6007d307acbd8856c",
+      "file": "firm-toy-posterior-e0010a21b889.png"
+    },
+    {
+      "asset_key": "firm-2026/firm-toy-table",
+      "sha256": "25329d179224b7a25580b4ef204d41bdb48a91ae4e3ffcbeaf876f63fee37d15",
+      "bytes": 46153,
+      "dimensions": [
+        1212,
+        297
+      ],
+      "rgba_sha256": "309a47eecc457427bab67c67872aeeef80ce493253cfe6c954319d9fb8f8e89d",
+      "title": "FIRM: Flow-based Imaging via Regularized Minimization",
+      "authors": [
+        "Shirin Shoushtari",
+        "Edward P. Chandler",
+        "Xiao Shi",
+        "Ulugbek S. Kamilov"
+      ],
+      "source_url": "https://arxiv.org/pdf/2609.12953v2#page=24",
+      "source_locator": "AppendixE.3 / Table10；PDF第24页",
+      "source_page": 24,
+      "licensed_version_url": "https://arxiv.org/html/2609.12953v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 10: Posterior recovery versus NN for u=+1.5u{=}{+}1.5 using 40004000 samples. The analytical posterior has negligible mass in |v|<0.75|v|<0.75, equal mode weights, and modes near ±1.5\\pm 1.5."
+      ],
+      "attribution": "Shirin Shoushtari, Edward P. Chandler, Xiao Shi, Ulugbek S. Kamilov; FIRM: Flow-based Imaging via Regularized Minimization; AppendixE.3 / Table10；PDF第24页; https://arxiv.org/html/2609.12953v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2609.12953v2#A5.T10"
+      ],
+      "repository_path": "papers/firm/arxiv-2609.12953v2/firm-toy-table-25329d179224.png",
+      "git_blob_sha1": "2ddde773e938682ac4d620848ddc59b2a8a75232",
+      "file": "firm-toy-table-25329d179224.png"
+    },
+    {
+      "asset_key": "firm-2026/firm-toy-steps",
+      "sha256": "6e02aa08bc3e4ca9306169e7e7d2ac7c2cf2e244c2814b65c92a54b028cba804",
+      "bytes": 215375,
+      "dimensions": [
+        1212,
+        909
+      ],
+      "rgba_sha256": "996b0beb123ca0e1b6766065e90d83a626f566088e23b8a4ffbfe86b5ee322c4",
+      "title": "FIRM: Flow-based Imaging via Regularized Minimization",
+      "authors": [
+        "Shirin Shoushtari",
+        "Edward P. Chandler",
+        "Xiao Shi",
+        "Ulugbek S. Kamilov"
+      ],
+      "source_url": "https://arxiv.org/pdf/2609.12953v2#page=25",
+      "source_locator": "AppendixE.3 / Figure5；PDF第25页",
+      "source_page": 25,
+      "licensed_version_url": "https://arxiv.org/html/2609.12953v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Figure 5: Posterior recovery versus NN. Top: W1​(v)W_{1}(v) and mass in the low-density valley. Bottom: sampled (blue) and analytical (red) marginals. The modes become resolved near N≈6N\\approx 6, followed by mild drift and under-dispersion at large NN."
+      ],
+      "attribution": "Shirin Shoushtari, Edward P. Chandler, Xiao Shi, Ulugbek S. Kamilov; FIRM: Flow-based Imaging via Regularized Minimization; AppendixE.3 / Figure5；PDF第25页; https://arxiv.org/html/2609.12953v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2609.12953v2#A5.F5"
+      ],
+      "repository_path": "papers/firm/arxiv-2609.12953v2/firm-toy-steps-6e02aa08bc3e.png",
+      "git_blob_sha1": "1e2881698c5e5dc578059d19f9f7d72fcb1be375",
+      "file": "firm-toy-steps-6e02aa08bc3e.png"
+    },
+    {
+      "asset_key": "firm-2026/firm-large-celeba",
+      "sha256": "ff143bcc162db470da2fe394ae5e3b4423528159af748c44f345c44cc2b1498e",
+      "bytes": 168149,
+      "dimensions": [
+        1212,
+        969
+      ],
+      "rgba_sha256": "9384f23def4ca99236f664f7a39b8d915f08dc494ce56e5fe19a7dbfc93bbf9c",
+      "title": "FIRM: Flow-based Imaging via Regularized Minimization",
+      "authors": [
+        "Shirin Shoushtari",
+        "Edward P. Chandler",
+        "Xiao Shi",
+        "Ulugbek S. Kamilov"
+      ],
+      "source_url": "https://arxiv.org/pdf/2609.12953v2#page=26",
+      "source_locator": "AppendixE / Table11；PDF第26页",
+      "source_page": 26,
+      "licensed_version_url": "https://arxiv.org/html/2609.12953v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 11: Results on 1000 CelebA images. Best and second best results are shown in blue and red ."
+      ],
+      "attribution": "Shirin Shoushtari, Edward P. Chandler, Xiao Shi, Ulugbek S. Kamilov; FIRM: Flow-based Imaging via Regularized Minimization; AppendixE / Table11；PDF第26页; https://arxiv.org/html/2609.12953v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2609.12953v2#A5.T11"
+      ],
+      "repository_path": "papers/firm/arxiv-2609.12953v2/firm-large-celeba-ff143bcc162d.png",
+      "git_blob_sha1": "375c9d68977c685abd1dd0605adae7c8930f92ae",
+      "file": "firm-large-celeba-ff143bcc162d.png"
+    },
+    {
+      "asset_key": "firm-2026/firm-large-afhq",
+      "sha256": "b608a9b15a3e99af852134fe3b1326967955908aa44bba17a7f2ee1478bab25b",
+      "bytes": 175412,
+      "dimensions": [
+        1212,
+        1065
+      ],
+      "rgba_sha256": "ef7410fd2f311e3d93b0a4c83de6c7244a689d7d9805bc8d80fa659b925801f1",
+      "title": "FIRM: Flow-based Imaging via Regularized Minimization",
+      "authors": [
+        "Shirin Shoushtari",
+        "Edward P. Chandler",
+        "Xiao Shi",
+        "Ulugbek S. Kamilov"
+      ],
+      "source_url": "https://arxiv.org/pdf/2609.12953v2#page=27",
+      "source_locator": "AppendixE / Table12；PDF第27页",
+      "source_page": 27,
+      "licensed_version_url": "https://arxiv.org/html/2609.12953v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 12: Results on 400 AFHQ-Cat images. Best and second best results are shown in blue and red ."
+      ],
+      "attribution": "Shirin Shoushtari, Edward P. Chandler, Xiao Shi, Ulugbek S. Kamilov; FIRM: Flow-based Imaging via Regularized Minimization; AppendixE / Table12；PDF第27页; https://arxiv.org/html/2609.12953v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2609.12953v2#A5.T12"
+      ],
+      "repository_path": "papers/firm/arxiv-2609.12953v2/firm-large-afhq-b608a9b15a3e.png",
+      "git_blob_sha1": "dc31a45afdc8404e42e01eb3afdf9177692468b8",
+      "file": "firm-large-afhq-b608a9b15a3e.png"
+    },
+    {
+      "asset_key": "firm-2026/firm-fourier-table",
+      "sha256": "d607a6eadb075b570cb9b49e1bdc9a614749bd39a529fea6ce105701eec5de57",
+      "bytes": 44699,
+      "dimensions": [
+        1212,
+        276
+      ],
+      "rgba_sha256": "078aeeaf67b6e327d7ba14fa7fb131e12fb52d47e9a5da4a4273492afaaad450",
+      "title": "FIRM: Flow-based Imaging via Regularized Minimization",
+      "authors": [
+        "Shirin Shoushtari",
+        "Edward P. Chandler",
+        "Xiao Shi",
+        "Ulugbek S. Kamilov"
+      ],
+      "source_url": "https://arxiv.org/pdf/2609.12953v2#page=27",
+      "source_locator": "AppendixE.4 / Table13；PDF第27页",
+      "source_page": 27,
+      "licensed_version_url": "https://arxiv.org/html/2609.12953v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 13: Compressed-sensing Fourier sampling on AFHQ-Cat (avg 100 images)."
+      ],
+      "attribution": "Shirin Shoushtari, Edward P. Chandler, Xiao Shi, Ulugbek S. Kamilov; FIRM: Flow-based Imaging via Regularized Minimization; AppendixE.4 / Table13；PDF第27页; https://arxiv.org/html/2609.12953v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2609.12953v2#A5.T13"
+      ],
+      "repository_path": "papers/firm/arxiv-2609.12953v2/firm-fourier-table-d607a6eadb07.png",
+      "git_blob_sha1": "bba44d0357e6cd267e5180f494ec7c4bf61ed463",
+      "file": "firm-fourier-table-d607a6eadb07.png"
+    },
+    {
+      "asset_key": "firm-2026/firm-wallclock",
+      "sha256": "cf706ca8dc8f5dcd8e3e0448806001f563451b4fe9e287ed38485a9bcebe8b83",
+      "bytes": 147611,
+      "dimensions": [
+        1212,
+        759
+      ],
+      "rgba_sha256": "fd1f16c49a5143b4867bc56339ceb5c075a23ee1de6c3dee30ba2bb5e987b9e6",
+      "title": "FIRM: Flow-based Imaging via Regularized Minimization",
+      "authors": [
+        "Shirin Shoushtari",
+        "Edward P. Chandler",
+        "Xiao Shi",
+        "Ulugbek S. Kamilov"
+      ],
+      "source_url": "https://arxiv.org/pdf/2609.12953v2#page=32",
+      "source_locator": "AppendixE / Figure10；PDF第32页",
+      "source_page": 32,
+      "licensed_version_url": "https://arxiv.org/html/2609.12953v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Figure 10: Reconstruction quality versus inference cost on CelebA (128×128128\\times 128). PSNR is averaged over the five restoration tasks of Table 1 (100 test images each); the horizontal axis is per-image wall-clock, measured on a single NVIDIA RTX A6000 and plotted on a log scale. Up and to the left is better. Our method is shown over Euler steps N∈{2,4,10,25}N\\in\\{2,4,10,25\\} with K=5K{=}5 fixed, while each baseline contributes a single point. At N=2N{=}2 we exceed the strongest baseline (Flower5) at ≈50×\\approx 50\\times lower cost. PSNR decreases along our curve as NN grows because additional steps trade distortion for perceptual quality."
+      ],
+      "attribution": "Shirin Shoushtari, Edward P. Chandler, Xiao Shi, Ulugbek S. Kamilov; FIRM: Flow-based Imaging via Regularized Minimization; AppendixE / Figure10；PDF第32页; https://arxiv.org/html/2609.12953v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2609.12953v2#A5.F10"
+      ],
+      "repository_path": "papers/firm/arxiv-2609.12953v2/firm-wallclock-cf706ca8dc8f.png",
+      "git_blob_sha1": "77a4af7ec826458a46e8957c6ac6f214b92a30bb",
+      "file": "firm-wallclock-cf706ca8dc8f.png"
+    }
+  ]
+}
