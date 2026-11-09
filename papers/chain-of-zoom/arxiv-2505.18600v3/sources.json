@@ -1,0 +1,40 @@
+{
+  "schema": "public-paper-image-sources-1",
+  "scope": "Only individually reviewed paper image bytes and attribution; no datasets, code, model weights, full paper PDFs, private notes or credentials.",
+  "canonical_source_recovery": "These objects preserve the exact PNG bytes of the cited figure excerpts. Official original links remain identified in their source records. Runtime adoption and source retirement are separate steps.",
+  "assets": [
+    {
+      "asset_key": "chain-of-zoom-2025/cz-invalid-table",
+      "sha256": "eead3693813d699ee41fe8ff1507b4b51de1ba37edad318ac827099bcdb62bbe",
+      "bytes": 37011,
+      "dimensions": [
+        684,
+        220
+      ],
+      "rgba_sha256": "997a7cf6703c51a7f1cd8394d1c42240d35a68a87b7b484c664da87d224b154b",
+      "title": "Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment",
+      "authors": [
+        "Bryan Sangwoo Kim",
+        "Jeongsol Kim",
+        "Jong Chul Ye"
+      ],
+      "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/b66d8cbb01ac8212830068f3d75b4c5c-Paper-Conference.pdf#page=19",
+      "source_locator": "Table6原图",
+      "source_page": 19,
+      "licensed_version_url": "https://arxiv.org/html/2505.18600v3",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 6: Cosine similarity for overlapping/non-overlapping regions."
+      ],
+      "attribution": "Bryan Sangwoo Kim, Jeongsol Kim, Jong Chul Ye; Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment; Table6原图; https://arxiv.org/html/2505.18600v3; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2505.18600v3#A7.T6"
+      ],
+      "repository_path": "papers/chain-of-zoom/arxiv-2505.18600v3/cz-invalid-table-eead3693813d.png",
+      "git_blob_sha1": "b5b9db633fc6ccb95d9d701e53d22bf1a607c4e1",
+      "file": "cz-invalid-table-eead3693813d.png"
+    }
+  ]
+}
