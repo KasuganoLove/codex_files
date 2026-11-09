@@ -1,0 +1,517 @@
+{
+  "schema": "public-paper-image-sources-1",
+  "scope": "Only individually reviewed paper image bytes and attribution; no datasets, code, model weights, full paper PDFs, private notes or credentials.",
+  "canonical_source_recovery": "These objects preserve the exact PNG bytes of the cited figure excerpts. Official original links remain identified in their source records. Runtime adoption and source retirement are separate steps.",
+  "assets": [
+    {
+      "asset_key": "avis-2026/av-fig2",
+      "sha256": "f165656e2f41143c042647f3d8513cd622e2637e6a11419efefbeaf2fb58a119",
+      "bytes": 248254,
+      "dimensions": [
+        1394,
+        638
+      ],
+      "rgba_sha256": "c45e3c5ae881e8f9fbc261bee008a13ce4417da2b9782320d4e85ecf1d86b798",
+      "title": "Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models",
+      "authors": [
+        "Taesung Kwon",
+        "Jonghyun Park",
+        "Hyungjin Chung",
+        "Jong Chul Ye"
+      ],
+      "source_url": "https://arxiv.org/pdf/2605.20624v2#page=3",
+      "source_locator": "Figure2",
+      "source_page": 3,
+      "licensed_version_url": "https://arxiv.org/html/2605.20624v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Figure 2: Overview of our proposed AVIS and AVIS Flash framework. (a) Non-autoregressive restoration processes the entire video holistically, suffering from high initial latency. (b) AVIS restores videos in a streaming manner and reduces sampling steps via measurement-consistent initialization while enforcing measurement updates for every video chunk. (c) AVIS Flash retains the same initialization as AVIS but applies measurement updates only to the first video chunk. Subsequent chunks (n≥2n\\geq 2) are restored through autoregressive propagation from the corrected prefix, eliminating iterative VAE passes and dramatically accelerating throughput."
+      ],
+      "attribution": "Taesung Kwon, Jonghyun Park, Hyungjin Chung, Jong Chul Ye; Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models; Figure2; https://arxiv.org/html/2605.20624v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2605.20624v2#S1.F2"
+      ],
+      "repository_path": "papers/avis/arxiv-2605.20624v2/av-fig2-f165656e2f41.png",
+      "git_blob_sha1": "6da331134e45819c3e97352fbfa26a4e6658d128",
+      "file": "av-fig2-f165656e2f41.png"
+    },
+    {
+      "asset_key": "avis-2026/av-alg1",
+      "sha256": "c238b9d424d4b7f782ed1a95edfc3392a61896da0a62bbaec1c3049a14d0f78b",
+      "bytes": 134239,
+      "dimensions": [
+        1401,
+        641
+      ],
+      "rgba_sha256": "de7488df9a5b136809881e769fb347379b68e60ec3d5734cb889be7edbf5d620",
+      "title": "Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models",
+      "authors": [
+        "Taesung Kwon",
+        "Jonghyun Park",
+        "Hyungjin Chung",
+        "Jong Chul Ye"
+      ],
+      "source_url": "https://arxiv.org/pdf/2605.20624v2#page=7",
+      "source_locator": "Algorithm1",
+      "source_page": 7,
+      "licensed_version_url": "https://arxiv.org/html/2605.20624v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Algorithm 1 Autoregressive Video Inverse problem Solver (AVIS and AVIS Flash)"
+      ],
+      "attribution": "Taesung Kwon, Jonghyun Park, Hyungjin Chung, Jong Chul Ye; Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models; Algorithm1; https://arxiv.org/html/2605.20624v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2605.20624v2#alg1"
+      ],
+      "repository_path": "papers/avis/arxiv-2605.20624v2/av-alg1-c238b9d424d4.png",
+      "git_blob_sha1": "8d5c53d727b83879a2c6f15f7bdd0b9f287392d9",
+      "file": "av-alg1-c238b9d424d4.png"
+    },
+    {
+      "asset_key": "avis-2026/av-table5",
+      "sha256": "daaa2a5036d46e2c3aefa0371b96c8075d7ed4bfd61f20704225f6c3097a1d94",
+      "bytes": 102908,
+      "dimensions": [
+        1397,
+        407
+      ],
+      "rgba_sha256": "0bc670aa30c1eba0d869f1b723da6500f386877b6f6e1b813462e9d07cb99f3b",
+      "title": "Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models",
+      "authors": [
+        "Taesung Kwon",
+        "Jonghyun Park",
+        "Hyungjin Chung",
+        "Jong Chul Ye"
+      ],
+      "source_url": "https://arxiv.org/pdf/2605.20624v2#page=10",
+      "source_locator": "Table5",
+      "source_page": 10,
+      "licensed_version_url": "https://arxiv.org/html/2605.20624v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 5: Ablation studies on AVIS Flash for the video inpainting task. (a) Effect of autoregressive propagation with KV cache. (b) Impact of the start time t0t_{0}. (c) Impact of the number of diffusion sampling steps KK. Bold and underline indicate the best and second-best results, respectively."
+      ],
+      "attribution": "Taesung Kwon, Jonghyun Park, Hyungjin Chung, Jong Chul Ye; Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models; Table5; https://arxiv.org/html/2605.20624v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2605.20624v2#S5.T5"
+      ],
+      "repository_path": "papers/avis/arxiv-2605.20624v2/av-table5-daaa2a5036d4.png",
+      "git_blob_sha1": "c0032ad637fbfffacf01e2ff94b47dc7ad57b024",
+      "file": "av-table5-daaa2a5036d4.png"
+    },
+    {
+      "asset_key": "avis-2026/av-table4",
+      "sha256": "c732901436a1e0ab409e853be7355d2824a6df9be6547e74c8108c115ad68dc8",
+      "bytes": 25919,
+      "dimensions": [
+        669,
+        176
+      ],
+      "rgba_sha256": "d699a1daa89bfc6fa926b8f425beada41eb4af5facc4dea6d4cdea9360c3135e",
+      "title": "Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models",
+      "authors": [
+        "Taesung Kwon",
+        "Jonghyun Park",
+        "Hyungjin Chung",
+        "Jong Chul Ye"
+      ],
+      "source_url": "https://arxiv.org/pdf/2605.20624v2#page=9",
+      "source_locator": "Table4",
+      "source_page": 9,
+      "licensed_version_url": "https://arxiv.org/html/2605.20624v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 4: Effect of the initialization on video inpainting (σn=0.05\\sigma_{n}{=}0.05, λ=0.3\\lambda{=}0.3). AVIS consistently improves over the initialization and its VAE reconstruction."
+      ],
+      "attribution": "Taesung Kwon, Jonghyun Park, Hyungjin Chung, Jong Chul Ye; Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models; Table4; https://arxiv.org/html/2605.20624v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2605.20624v2#S5.T4"
+      ],
+      "repository_path": "papers/avis/arxiv-2605.20624v2/av-table4-c732901436a1.png",
+      "git_blob_sha1": "9967154f4069f4d114cecde9e4f11911859240dc",
+      "file": "av-table4-c732901436a1.png"
+    },
+    {
+      "asset_key": "avis-2026/av-table2",
+      "sha256": "4c517422401564ad1c5f5fd05d58cebba64073f1381c9bc9bf59e9fb062c895d",
+      "bytes": 216224,
+      "dimensions": [
+        1397,
+        841
+      ],
+      "rgba_sha256": "80b7e38e50f0adf72e793fb5e1c686aed0db1bcbd49833d26cfdbe7fcb55c5cc",
+      "title": "Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models",
+      "authors": [
+        "Taesung Kwon",
+        "Jonghyun Park",
+        "Hyungjin Chung",
+        "Jong Chul Ye"
+      ],
+      "source_url": "https://arxiv.org/pdf/2605.20624v2#page=8",
+      "source_locator": "Table2",
+      "source_page": 8,
+      "licensed_version_url": "https://arxiv.org/html/2605.20624v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 2: Quantitative comparison across five video restoration tasks. Our proposed AVIS achieves superior performance, and its highly efficient variant, AVIS Flash, maintains competitive performance. Bold and underline indicate the best and second-best results, respectively."
+      ],
+      "attribution": "Taesung Kwon, Jonghyun Park, Hyungjin Chung, Jong Chul Ye; Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models; Table2; https://arxiv.org/html/2605.20624v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2605.20624v2#S5.T2"
+      ],
+      "repository_path": "papers/avis/arxiv-2605.20624v2/av-table2-4c5174224015.png",
+      "git_blob_sha1": "32fc5e3f01ebc8f4edfb13eb3a3e21b9fe6238aa",
+      "file": "av-table2-4c5174224015.png"
+    },
+    {
+      "asset_key": "avis-2026/av-table3",
+      "sha256": "bce278cab76b94479b5e0fd285693689f1267d3ac189476cb1b277aa10c39cf9",
+      "bytes": 109996,
+      "dimensions": [
+        666,
+        676
+      ],
+      "rgba_sha256": "1752429591a238d96b526a2c98c58855c6b3d32ddc62e6126f930f237dbcc4e1",
+      "title": "Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models",
+      "authors": [
+        "Taesung Kwon",
+        "Jonghyun Park",
+        "Hyungjin Chung",
+        "Jong Chul Ye"
+      ],
+      "source_url": "https://arxiv.org/pdf/2605.20624v2#page=9",
+      "source_locator": "Table3",
+      "source_page": 9,
+      "licensed_version_url": "https://arxiv.org/html/2605.20624v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 3: Robustness to measurement noise (σn=0.01\\sigma_{n}{=}0.01, λ=0.1\\lambda{=}0.1). AVIS and AVIS Flash remain stable under measurement noise. Bold and underline indicate the best and second-best results, respectively."
+      ],
+      "attribution": "Taesung Kwon, Jonghyun Park, Hyungjin Chung, Jong Chul Ye; Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models; Table3; https://arxiv.org/html/2605.20624v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2605.20624v2#S5.T3"
+      ],
+      "repository_path": "papers/avis/arxiv-2605.20624v2/av-table3-bce278cab76b.png",
+      "git_blob_sha1": "f6ca1d4ad7ac19e14c310ebc5c9d9ebaabe621d1",
+      "file": "av-table3-bce278cab76b.png"
+    },
+    {
+      "asset_key": "avis-2026/av-table10",
+      "sha256": "2b8a58dcf8874747f6c85f0954e7375182c3a0d2e14fb72ad6633c776008d039",
+      "bytes": 103124,
+      "dimensions": [
+        669,
+        658
+      ],
+      "rgba_sha256": "c1a086e888bb2e8581c813e3ea43f7c491f592143a43b32e40e6c49993ca406d",
+      "title": "Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models",
+      "authors": [
+        "Taesung Kwon",
+        "Jonghyun Park",
+        "Hyungjin Chung",
+        "Jong Chul Ye"
+      ],
+      "source_url": "https://arxiv.org/pdf/2605.20624v2#page=23",
+      "source_locator": "Table10",
+      "source_page": 23,
+      "licensed_version_url": "https://arxiv.org/html/2605.20624v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 10: Backbone fairness check across five tasks. LVTINO-AR denotes LVTINO coupled with the same autoregressive backbone as AVIS. Bold and underline indicate the best and second-best results, respectively."
+      ],
+      "attribution": "Taesung Kwon, Jonghyun Park, Hyungjin Chung, Jong Chul Ye; Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models; Table10; https://arxiv.org/html/2605.20624v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2605.20624v2#A3.T10"
+      ],
+      "repository_path": "papers/avis/arxiv-2605.20624v2/av-table10-2b8a58dcf887.png",
+      "git_blob_sha1": "3e93b90cc3650e5bce2926c93f3c5bbde5faa343",
+      "file": "av-table10-2b8a58dcf887.png"
+    },
+    {
+      "asset_key": "avis-2026/av-table11",
+      "sha256": "fbffab4a46dcdbfa0c0c9daae1cb7cff17f8a5d496edcf1f991adb53b43b468b",
+      "bytes": 28239,
+      "dimensions": [
+        662,
+        193
+      ],
+      "rgba_sha256": "c04e55c9d866d50599d30702b3729aed7494dd6191047d83920e2fe82aa29e59",
+      "title": "Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models",
+      "authors": [
+        "Taesung Kwon",
+        "Jonghyun Park",
+        "Hyungjin Chung",
+        "Jong Chul Ye"
+      ],
+      "source_url": "https://arxiv.org/pdf/2605.20624v2#page=23",
+      "source_locator": "Table11",
+      "source_page": 23,
+      "licensed_version_url": "https://arxiv.org/html/2605.20624v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 11: Runtime comparison on 4×\\times super-resolution using a single RTX 4090."
+      ],
+      "attribution": "Taesung Kwon, Jonghyun Park, Hyungjin Chung, Jong Chul Ye; Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models; Table11; https://arxiv.org/html/2605.20624v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2605.20624v2#A3.T11"
+      ],
+      "repository_path": "papers/avis/arxiv-2605.20624v2/av-table11-fbffab4a46dc.png",
+      "git_blob_sha1": "2e9e60d12e484c0509203c629b8d0d572c66538e",
+      "file": "av-table11-fbffab4a46dc.png"
+    },
+    {
+      "asset_key": "avis-2026/av-table7",
+      "sha256": "2dbc53cc10d101e5e90c0e861954bef8aa2e75136f97e8d09c75d5a7730b2a3c",
+      "bytes": 104431,
+      "dimensions": [
+        802,
+        722
+      ],
+      "rgba_sha256": "41a02204976a04ff77b9298d9d5226c15199d0302e9d55f4507e62e8c0f51740",
+      "title": "Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models",
+      "authors": [
+        "Taesung Kwon",
+        "Jonghyun Park",
+        "Hyungjin Chung",
+        "Jong Chul Ye"
+      ],
+      "source_url": "https://arxiv.org/pdf/2605.20624v2#page=21",
+      "source_locator": "Table7",
+      "source_page": 21,
+      "licensed_version_url": "https://arxiv.org/html/2605.20624v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 7: Effect of the guidance interval on 60-second videos. Guidance is applied every NN chunks. Denser guidance improves quality, while sparser guidance yields larger speedup."
+      ],
+      "attribution": "Taesung Kwon, Jonghyun Park, Hyungjin Chung, Jong Chul Ye; Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models; Table7; https://arxiv.org/html/2605.20624v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2605.20624v2#A3.T7"
+      ],
+      "repository_path": "papers/avis/arxiv-2605.20624v2/av-table7-2dbc53cc10d1.png",
+      "git_blob_sha1": "33df61b4a2d79af82b3a16671d66eb16bcf45b6c",
+      "file": "av-table7-2dbc53cc10d1.png"
+    },
+    {
+      "asset_key": "avis-2026/av-table9",
+      "sha256": "ac7469781f54183f1341d444bfd517c90f456ee9304c2ee785c62a7d9cec6949",
+      "bytes": 67622,
+      "dimensions": [
+        946,
+        515
+      ],
+      "rgba_sha256": "7f67f6a29af2b03c9500d215a82eb8b4447ff49d72782746e4e688f4864190c4",
+      "title": "Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models",
+      "authors": [
+        "Taesung Kwon",
+        "Jonghyun Park",
+        "Hyungjin Chung",
+        "Jong Chul Ye"
+      ],
+      "source_url": "https://arxiv.org/pdf/2605.20624v2#page=23",
+      "source_locator": "Table9",
+      "source_page": 23,
+      "licensed_version_url": "https://arxiv.org/html/2605.20624v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 9: Chunk-wise measurement residual (RMSE). The residual of AVIS Flash remains nearly flat after the first chunk, indicating no divergent error accumulation."
+      ],
+      "attribution": "Taesung Kwon, Jonghyun Park, Hyungjin Chung, Jong Chul Ye; Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models; Table9; https://arxiv.org/html/2605.20624v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2605.20624v2#A3.T9"
+      ],
+      "repository_path": "papers/avis/arxiv-2605.20624v2/av-table9-ac7469781f54.png",
+      "git_blob_sha1": "ed44bd548463f581e52e5c00739e826885010e7e",
+      "file": "av-table9-ac7469781f54.png"
+    },
+    {
+      "asset_key": "avis-2026/av-table12",
+      "sha256": "5ebb31ef7258612a0b2d6928e77b08d31cb4a5d8b3dc94519da2f5df066d4816",
+      "bytes": 42340,
+      "dimensions": [
+        1362,
+        200
+      ],
+      "rgba_sha256": "64657d42f11975d2aa7b6fb9fd56107584be47cc3a9de2156287b28a5f537d8c",
+      "title": "Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models",
+      "authors": [
+        "Taesung Kwon",
+        "Jonghyun Park",
+        "Hyungjin Chung",
+        "Jong Chul Ye"
+      ],
+      "source_url": "https://arxiv.org/pdf/2605.20624v2#page=24",
+      "source_locator": "Table12",
+      "source_page": 24,
+      "licensed_version_url": "https://arxiv.org/html/2605.20624v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 12: Detailed runtime of AVIS Flash for each degradation. Measured on 81-frame videos using a single RTX 4090."
+      ],
+      "attribution": "Taesung Kwon, Jonghyun Park, Hyungjin Chung, Jong Chul Ye; Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models; Table12; https://arxiv.org/html/2605.20624v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2605.20624v2#A3.T12"
+      ],
+      "repository_path": "papers/avis/arxiv-2605.20624v2/av-table12-5ebb31ef7258.png",
+      "git_blob_sha1": "7bec270dec577341145f712609477054216b50af",
+      "file": "av-table12-5ebb31ef7258.png"
+    },
+    {
+      "asset_key": "avis-2026/av-table1",
+      "sha256": "f6e4ddab53fd72ced6f083b474f4bc562c893764a89ea60ffd3b895a43a40dd7",
+      "bytes": 24320,
+      "dimensions": [
+        662,
+        196
+      ],
+      "rgba_sha256": "01733408dad74ff480eed49e646f41d7951270dfbc94be39e7e16186dab23469",
+      "title": "Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models",
+      "authors": [
+        "Taesung Kwon",
+        "Jonghyun Park",
+        "Hyungjin Chung",
+        "Jong Chul Ye"
+      ],
+      "source_url": "https://arxiv.org/pdf/2605.20624v2#page=7",
+      "source_locator": "Table1",
+      "source_page": 7,
+      "licensed_version_url": "https://arxiv.org/html/2605.20624v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 1: Efficiency comparison for 4×4\\times video super-resolution. Our framework (AVIS and AVIS Flash) achieves significant improvements across all efficiency metrics. Bold and underline indicate the best and second-best results, respectively."
+      ],
+      "attribution": "Taesung Kwon, Jonghyun Park, Hyungjin Chung, Jong Chul Ye; Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models; Table1; https://arxiv.org/html/2605.20624v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2605.20624v2#S5.T1"
+      ],
+      "repository_path": "papers/avis/arxiv-2605.20624v2/av-table1-f6e4ddab53fd.png",
+      "git_blob_sha1": "c5f45861678c84402979daf5e631ca8e85dd81c0",
+      "file": "av-table1-f6e4ddab53fd.png"
+    },
+    {
+      "asset_key": "avis-2026/av-table6",
+      "sha256": "067e5dab6a4e8dd8d370125f29c65d5f34104d7529b4b4264f2fd8dcdd52de10",
+      "bytes": 78053,
+      "dimensions": [
+        666,
+        582
+      ],
+      "rgba_sha256": "fa0cd08c8b949039302a9c3bcecb70e186a1c7f7cfa5e88130236cb713704496",
+      "title": "Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models",
+      "authors": [
+        "Taesung Kwon",
+        "Jonghyun Park",
+        "Hyungjin Chung",
+        "Jong Chul Ye"
+      ],
+      "source_url": "https://arxiv.org/pdf/2605.20624v2#page=21",
+      "source_locator": "Table6",
+      "source_page": 21,
+      "licensed_version_url": "https://arxiv.org/html/2605.20624v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 6: AVIS Flash performance across video durations. Restoration quality is preserved even when the video length doubles."
+      ],
+      "attribution": "Taesung Kwon, Jonghyun Park, Hyungjin Chung, Jong Chul Ye; Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models; Table6; https://arxiv.org/html/2605.20624v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2605.20624v2#A3.T6"
+      ],
+      "repository_path": "papers/avis/arxiv-2605.20624v2/av-table6-067e5dab6a4e.png",
+      "git_blob_sha1": "905a0006354ad7309fbf6b9ddbf8d7858c61fcbd",
+      "file": "av-table6-067e5dab6a4e.png"
+    },
+    {
+      "asset_key": "avis-2026/av-table8",
+      "sha256": "22ca717617250e5b126b9c9aa515ae7425ad8437109fba7e6d37ae154574f150",
+      "bytes": 69069,
+      "dimensions": [
+        1218,
+        347
+      ],
+      "rgba_sha256": "a64efdd493c9dea836568726ec8eccbf1c0686aaf5094668b218c7e5af4e2b2a",
+      "title": "Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models",
+      "authors": [
+        "Taesung Kwon",
+        "Jonghyun Park",
+        "Hyungjin Chung",
+        "Jong Chul Ye"
+      ],
+      "source_url": "https://arxiv.org/pdf/2605.20624v2#page=22",
+      "source_locator": "Table8",
+      "source_page": 22,
+      "licensed_version_url": "https://arxiv.org/html/2605.20624v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 8: Spatio-temporal super-resolution on GoPro240 and Adobe240. AVIS and AVIS Flash remain effective even at a scale factor of 8×\\times. Bold and underline indicate the best and second-best results, respectively."
+      ],
+      "attribution": "Taesung Kwon, Jonghyun Park, Hyungjin Chung, Jong Chul Ye; Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models; Table8; https://arxiv.org/html/2605.20624v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2605.20624v2#A3.T8"
+      ],
+      "repository_path": "papers/avis/arxiv-2605.20624v2/av-table8-22ca71761725.png",
+      "git_blob_sha1": "d802e94f5de3d1f5aed7a9bd950a7f6999bdad72",
+      "file": "av-table8-22ca71761725.png"
+    },
+    {
+      "asset_key": "avis-2026/av-table13",
+      "sha256": "0cc189452f12a6f1e0a6fb8832ff792b40f62eb62ebee86a498683d9c1381468",
+      "bytes": 109232,
+      "dimensions": [
+        669,
+        648
+      ],
+      "rgba_sha256": "1b705f84a039fc2521f955398b13635b9cd53a377232e2f0175395b15bf47397",
+      "title": "Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models",
+      "authors": [
+        "Taesung Kwon",
+        "Jonghyun Park",
+        "Hyungjin Chung",
+        "Jong Chul Ye"
+      ],
+      "source_url": "https://arxiv.org/pdf/2605.20624v2#page=24",
+      "source_locator": "Table13",
+      "source_page": 24,
+      "licensed_version_url": "https://arxiv.org/html/2605.20624v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Table 13: Further results on the effect of the initialization (σn=0.05\\sigma_{n}{=}0.05, λ=0.3\\lambda{=}0.3). AVIS consistently improves over the initialization and its VAE reconstruction. Bold and underline indicate the best and second-best results, respectively."
+      ],
+      "attribution": "Taesung Kwon, Jonghyun Park, Hyungjin Chung, Jong Chul Ye; Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models; Table13; https://arxiv.org/html/2605.20624v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2605.20624v2#A3.T13"
+      ],
+      "repository_path": "papers/avis/arxiv-2605.20624v2/av-table13-0cc189452f12.png",
+      "git_blob_sha1": "e80dcb89abed70777a5feec09d2d8397387e8adc",
+      "file": "av-table13-0cc189452f12.png"
+    }
+  ]
+}
