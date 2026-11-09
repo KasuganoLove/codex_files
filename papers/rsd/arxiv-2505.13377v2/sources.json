@@ -1,0 +1,151 @@
+{
+  "schema": "public-paper-image-sources-1",
+  "scope": "Only individually reviewed paper image bytes and attribution; no datasets, code, model weights, full paper PDFs, private notes or credentials.",
+  "canonical_source_recovery": "These objects preserve the exact PNG bytes of the cited figure excerpts. Official original links remain identified in their source records. Runtime adoption and source retirement are separate steps.",
+  "assets": [
+    {
+      "asset_key": "rsd-2026/rsd-fig18",
+      "sha256": "22954598697d397b6e5fadb392c0c95ca47593582967e5627b37e24141394bc8",
+      "bytes": 3872603,
+      "dimensions": [
+        2971,
+        3200
+      ],
+      "rgba_sha256": "855421377306057f035b3a0b4403c0874c58d10918e5df19428aeb4e2d7a0524",
+      "title": "Score Distillation Beyond Acceleration: Generative Modeling from Corrupted Data",
+      "authors": [
+        "Yasi Zhang",
+        "Tianyu Chen",
+        "Zhendong Wang",
+        "Ying Nian Wu",
+        "Mingyuan Zhou",
+        "Oscar Leong"
+      ],
+      "source_url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/d5f893137b4e8a8ebc33cc8c2eee9e46-Paper-Conference.pdf#page=47",
+      "source_locator": "Figure 18",
+      "source_page": 47,
+      "licensed_version_url": "https://arxiv.org/html/2505.13377v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Figure 18: Unconditional CIFAR-10 32x32 random images generated with RSD training with noisy dataset with σ=0.2\\sigma=0.2 (FID: 4.77)."
+      ],
+      "attribution": "Yasi Zhang, Tianyu Chen, Zhendong Wang, Ying Nian Wu, Mingyuan Zhou, Oscar Leong; Score Distillation Beyond Acceleration: Generative Modeling from Corrupted Data; Figure 18; https://arxiv.org/html/2505.13377v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2505.13377v2#A11.F18"
+      ],
+      "repository_path": "papers/rsd/arxiv-2505.13377v2/rsd-fig18-22954598697d.png",
+      "git_blob_sha1": "2b4917ab2400b7aa3d6c94a9c2008f758827de64",
+      "file": "rsd-fig18-22954598697d.png"
+    },
+    {
+      "asset_key": "rsd-2026/rsd-fig21",
+      "sha256": "b71a83e72a3457740e585672a121b28fd64eae19474e291edcb70ab9bee0b86d",
+      "bytes": 6010861,
+      "dimensions": [
+        2971,
+        3200
+      ],
+      "rgba_sha256": "5912811b27ca8ed2d2ed49766f48f1d34a787b8c73c3ec85bafd6d0e66a22b63",
+      "title": "Score Distillation Beyond Acceleration: Generative Modeling from Corrupted Data",
+      "authors": [
+        "Yasi Zhang",
+        "Tianyu Chen",
+        "Zhendong Wang",
+        "Ying Nian Wu",
+        "Mingyuan Zhou",
+        "Oscar Leong"
+      ],
+      "source_url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/d5f893137b4e8a8ebc33cc8c2eee9e46-Paper-Conference.pdf#page=50",
+      "source_locator": "Figure 21",
+      "source_page": 50,
+      "licensed_version_url": "https://arxiv.org/html/2505.13377v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Figure 21: Unconditional FFHQ 64x64 random images generated with RSD training on noisy dataset with σ=0.2\\sigma=0.2 (FID: 6.29)."
+      ],
+      "attribution": "Yasi Zhang, Tianyu Chen, Zhendong Wang, Ying Nian Wu, Mingyuan Zhou, Oscar Leong; Score Distillation Beyond Acceleration: Generative Modeling from Corrupted Data; Figure 21; https://arxiv.org/html/2505.13377v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2505.13377v2#A11.F21"
+      ],
+      "repository_path": "papers/rsd/arxiv-2505.13377v2/rsd-fig21-b71a83e72a34.png",
+      "git_blob_sha1": "a1874ee7e74fcc187172f9fb12048cebf66f0a0a",
+      "file": "rsd-fig21-b71a83e72a34.png"
+    },
+    {
+      "asset_key": "rsd-2026/rsd-fig23",
+      "sha256": "d37813bb270234f3735bfdb6e093a4db09a08cd0ca5f5106cbfce40b365fb789",
+      "bytes": 5977492,
+      "dimensions": [
+        2971,
+        3200
+      ],
+      "rgba_sha256": "0298cbe328ddf39084437771821546e6d8d8c355fe87694ab3c85b7c4c75f275",
+      "title": "Score Distillation Beyond Acceleration: Generative Modeling from Corrupted Data",
+      "authors": [
+        "Yasi Zhang",
+        "Tianyu Chen",
+        "Zhendong Wang",
+        "Ying Nian Wu",
+        "Mingyuan Zhou",
+        "Oscar Leong"
+      ],
+      "source_url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/d5f893137b4e8a8ebc33cc8c2eee9e46-Paper-Conference.pdf#page=52",
+      "source_locator": "Figure 23",
+      "source_page": 52,
+      "licensed_version_url": "https://arxiv.org/html/2505.13377v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Figure 23: Unconditional AFHQ-v2 64x64 random images generated with RSD training on noisy dataset with σ=0.2\\sigma=0.2 (FID: 5.42)."
+      ],
+      "attribution": "Yasi Zhang, Tianyu Chen, Zhendong Wang, Ying Nian Wu, Mingyuan Zhou, Oscar Leong; Score Distillation Beyond Acceleration: Generative Modeling from Corrupted Data; Figure 23; https://arxiv.org/html/2505.13377v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2505.13377v2#A11.F23"
+      ],
+      "repository_path": "papers/rsd/arxiv-2505.13377v2/rsd-fig23-d37813bb2702.png",
+      "git_blob_sha1": "29449d182c5e0b78aa76f26b7828b52a462c99ca",
+      "file": "rsd-fig23-d37813bb2702.png"
+    },
+    {
+      "asset_key": "rsd-2026/rsd-fig35",
+      "sha256": "ffc92b01908bfd6c55a108c8a7c8a5fac305045089f3c348bbcc6ac2bda3d119",
+      "bytes": 5991911,
+      "dimensions": [
+        3005,
+        3200
+      ],
+      "rgba_sha256": "a01c7d018800d0d20eec7cf4a1ee87a372ba25d0e20b1003f2ee4a760163711f",
+      "title": "Score Distillation Beyond Acceleration: Generative Modeling from Corrupted Data",
+      "authors": [
+        "Yasi Zhang",
+        "Tianyu Chen",
+        "Zhendong Wang",
+        "Ying Nian Wu",
+        "Mingyuan Zhou",
+        "Oscar Leong"
+      ],
+      "source_url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/d5f893137b4e8a8ebc33cc8c2eee9e46-Paper-Conference.pdf#page=64",
+      "source_locator": "Figure 35",
+      "source_page": 64,
+      "licensed_version_url": "https://arxiv.org/html/2505.13377v2",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "official_captions": [
+        "Figure 35: RSD generation results for Super Resolution ×2\\times 2 Task with σ=0.2\\sigma=0.2"
+      ],
+      "attribution": "Yasi Zhang, Tianyu Chen, Zhendong Wang, Ying Nian Wu, Mingyuan Zhou, Oscar Leong; Score Distillation Beyond Acceleration: Generative Modeling from Corrupted Data; Figure 35; https://arxiv.org/html/2505.13377v2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Rasterized/cropped from the cited PDF page; original figure text and graphics preserved.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2505.13377v2#A11.F35"
+      ],
+      "repository_path": "papers/rsd/arxiv-2505.13377v2/rsd-fig35-ffc92b01908b.png",
+      "git_blob_sha1": "bc4ccd8347ca0c053d73433c1cec71714a1dbdd1",
+      "file": "rsd-fig35-ffc92b01908b.png"
+    }
+  ]
+}
