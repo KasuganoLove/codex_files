@@ -35,6 +35,43 @@
       "repository_path": "papers/chain-of-zoom/arxiv-2505.18600v3/cz-invalid-table-eead3693813d.png",
       "git_blob_sha1": "b5b9db633fc6ccb95d9d701e53d22bf1a607c4e1",
       "file": "cz-invalid-table-eead3693813d.png"
+    },
+    {
+      "asset_key": "chain-of-zoom-2025/cz-mos",
+      "sha256": "442dc7574861f96934172b9f7044d276539fe8a032466daaaa7af04aaf9cdaf8",
+      "bytes": 84154,
+      "dimensions": [
+        853,
+        452
+      ],
+      "rgba_sha256": "ee11c9749af601563bc30129a95c85fe3e0e5cedc2ccf9732b981dd0d615ee9c",
+      "title": "Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment",
+      "authors": [
+        "Bryan Sangwoo Kim",
+        "Jeongsol Kim",
+        "Jong Chul Ye"
+      ],
+      "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/b66d8cbb01ac8212830068f3d75b4c5c-Paper-Conference.pdf#page=17",
+      "source_locator": "Figure 10",
+      "source_page": 17,
+      "source_pdf_sha256": "5f2a59f48ce1f35d3d9365e3bb5c51988e792c9e13f4f15ac2ed3e69ba6151c1",
+      "licensed_version_url": "https://arxiv.org/html/2505.18600v3",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "Cropped and rasterized from Figure 10 on page 17 of the cited conference PDF. The complete figure caption, published text and graphics are preserved. This display derivative differs in pixel dimensions, margins and rasterization from the linked arXiv image; it is not the untouched original PNG.",
+      "official_captions": [
+        "Figure 10: (a) Mean opinion scores for image generation. (b) Mean opinion scores for text generation. The scores on each bar denote the means and the error bars represent standard deviation. Significance of scores are denoted as, *: p < 0.05, **: p < 0.01, ***: p < 0.001."
+      ],
+      "attribution": "Bryan Sangwoo Kim, Jeongsol Kim, Jong Chul Ye; Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment; Figure 10; https://arxiv.org/html/2505.18600v3#A4.F10; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Cropped and rasterized from Figure 10 on page 17 of the cited conference PDF. The complete figure caption, published text and graphics are preserved. This display derivative differs in pixel dimensions, margins and rasterization from the linked arXiv image; it is not the untouched original PNG.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2505.18600v3#A4.F10"
+      ],
+      "official_original_image_url": "https://arxiv.org/html/2505.18600v3/user.png",
+      "official_original_image_sha256": "3d1850a29222e0f353506638357582ee352b1326483467bf41c4c5ca698084b3",
+      "license_scope_note": "The licensing correspondence was reviewed for this figure and its caption only; no claim is made that the complete conference PDF and arXiv paper are identical or that unrelated images are covered.",
+      "repository_path": "papers/chain-of-zoom/arxiv-2505.18600v3/cz-mos-442dc7574861.png",
+      "git_blob_sha1": "4e42b07f2e9d0fe5cf889e56b37ae2b4e3037a34",
+      "file": "cz-mos-442dc7574861.png"
     }
   ]
 }
