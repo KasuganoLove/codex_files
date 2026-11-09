@@ -1,0 +1,86 @@
+{
+  "schema": "public-paper-image-sources-1",
+  "scope": "Only these individually verified SVG excerpts, not datasets, weights, code or private research notes.",
+  "assets": [
+    {
+      "file": "fr-alg1.svg",
+      "repository_path": "papers/flashrender/arxiv-2609.03563v1/fr-alg1.svg",
+      "bytes": 503527,
+      "sha256": "82e97b739dbb1c7b22c9303bb41b5512a54f6f67495248781ab1ba213360ff5e",
+      "git_blob_sha1": "04f1c3c93c2ea63fa242a86840ddaa824499cb17",
+      "title": "FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow",
+      "authors": [
+        "Byeongjun Park",
+        "Byung-Hoon Kim",
+        "Hyungjin Chung"
+      ],
+      "paper_version": "2609.03563v1",
+      "source_url": "https://arxiv.org/html/2609.03563v1",
+      "original_pdf_url": "https://arxiv.org/pdf/2609.03563v1",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence_url": "https://arxiv.org/abs/2609.03563v1",
+      "modifications": "SVG excerpt from the PDF with crop viewBox; original paths preserved. SVG retains off-crop vector page content; no raster images, external resources or scripts. Runtime bytes unchanged."
+    },
+    {
+      "file": "fr-fig12.svg",
+      "repository_path": "papers/flashrender/arxiv-2609.03563v1/fr-fig12.svg",
+      "bytes": 858541,
+      "sha256": "c433ec5ed6eacf67e071dc30dc1aa41710a96872be1b5a0ca67bed4437d09bce",
+      "git_blob_sha1": "011e1c3652ca912a0645de590512b5b84774bced",
+      "title": "FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow",
+      "authors": [
+        "Byeongjun Park",
+        "Byung-Hoon Kim",
+        "Hyungjin Chung"
+      ],
+      "paper_version": "2609.03563v1",
+      "source_url": "https://arxiv.org/html/2609.03563v1",
+      "original_pdf_url": "https://arxiv.org/pdf/2609.03563v1",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence_url": "https://arxiv.org/abs/2609.03563v1",
+      "modifications": "SVG excerpt from the PDF with crop viewBox; original paths preserved. SVG retains off-crop vector page content; no raster images, external resources or scripts. Runtime bytes unchanged."
+    },
+    {
+      "file": "fr-fig11.svg",
+      "repository_path": "papers/flashrender/arxiv-2609.03563v1/fr-fig11.svg",
+      "bytes": 858542,
+      "sha256": "c756f8083e996f2d8a1c05f180c49ee4b2d28426161f490f9da8f0bd5dd31972",
+      "git_blob_sha1": "9805de41e6ea53f1b750979eb591adaf906aa269",
+      "title": "FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow",
+      "authors": [
+        "Byeongjun Park",
+        "Byung-Hoon Kim",
+        "Hyungjin Chung"
+      ],
+      "paper_version": "2609.03563v1",
+      "source_url": "https://arxiv.org/html/2609.03563v1",
+      "original_pdf_url": "https://arxiv.org/pdf/2609.03563v1",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence_url": "https://arxiv.org/abs/2609.03563v1",
+      "modifications": "SVG excerpt from the PDF with crop viewBox; original paths preserved. SVG retains off-crop vector page content; no raster images, external resources or scripts. Runtime bytes unchanged."
+    },
+    {
+      "file": "fr-alg2.svg",
+      "repository_path": "papers/flashrender/arxiv-2609.03563v1/fr-alg2.svg",
+      "bytes": 503527,
+      "sha256": "db5ef9cfdfbb76e5d65b6173d8b206e966a333e5f17b2e679326e3bf84cc2dd4",
+      "git_blob_sha1": "e2a23373566afcfdbee5068afeed4a1c10fa9591",
+      "title": "FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow",
+      "authors": [
+        "Byeongjun Park",
+        "Byung-Hoon Kim",
+        "Hyungjin Chung"
+      ],
+      "paper_version": "2609.03563v1",
+      "source_url": "https://arxiv.org/html/2609.03563v1",
+      "original_pdf_url": "https://arxiv.org/pdf/2609.03563v1",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence_url": "https://arxiv.org/abs/2609.03563v1",
+      "modifications": "SVG excerpt from the PDF with crop viewBox; original paths preserved. SVG retains off-crop vector page content; no raster images, external resources or scripts. Runtime bytes unchanged."
+    }
+  ]
+}
