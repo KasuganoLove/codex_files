@@ -18,7 +18,7 @@
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "license_evidence_url": "https://arxiv.org/abs/2606.19970v1",
   "checked_at": "2026-11-09",
-  "modifications": "Figure 4 excerpt rasterized from the paper and losslessly converted to WebP. The caption and scientific contents are retained. The PDF is linked at its official fixed-version URL and is not copied here.",
+  "modifications": "Selected figure/table excerpts rasterized from the paper and losslessly converted to WebP. No scientific content was intentionally changed. The PDF is linked at its official fixed-version URL and is not copied here.",
   "files": [
     {
       "path": "figure-04-gan-schedule.webp",
@@ -26,6 +26,60 @@
       "sha256": "06092e1e7531526aca07013d9ea0903a64c0fb50cb8fef6089f51dee5d56e86d",
       "git_blob_sha1": "221648400f7fefff63ec2f9cb7443f0263f78c80",
       "source_figure_or_table": "figure-04-gan-schedule",
+      "official_source_url": "https://arxiv.org/html/2606.19970v1",
+      "modifications": "Raster excerpt, lossless WebP conversion."
+    },
+    {
+      "path": "table-02-ablations.webp",
+      "bytes": 30288,
+      "sha256": "428cb7c91fc3189fc380e2b57f367692ca32dea10a6baf5f449991b25cf41854",
+      "git_blob_sha1": "187faac72460bd5e6a3d5295f1b7b93ab925c0f4",
+      "source_figure_or_table": "table-02-ablations",
+      "official_source_url": "https://arxiv.org/html/2606.19970v1",
+      "modifications": "Raster excerpt, lossless WebP conversion."
+    },
+    {
+      "path": "figure-07-gradient-norm.webp",
+      "bytes": 14746,
+      "sha256": "513b29f3e883c8e7e53e03068894b1ac111cb2fa917f5dddc5babc48f343ff0a",
+      "git_blob_sha1": "4304d079dfca6715d795ebc140383989ee866052",
+      "source_figure_or_table": "figure-07-gradient-norm",
+      "official_source_url": "https://arxiv.org/html/2606.19970v1",
+      "modifications": "Raster excerpt, lossless WebP conversion."
+    },
+    {
+      "path": "table-01-main-results.webp",
+      "bytes": 37064,
+      "sha256": "54fdb439e942d7c8c143759ea6f2d9ce0cd97471e3fc0ab88dcdd0fddda388ea",
+      "git_blob_sha1": "8ab9578c39aa94ee64a17863ab89a92237b46045",
+      "source_figure_or_table": "table-01-main-results",
+      "official_source_url": "https://arxiv.org/html/2606.19970v1",
+      "modifications": "Raster excerpt, lossless WebP conversion."
+    },
+    {
+      "path": "table-03-training.webp",
+      "bytes": 21432,
+      "sha256": "9b53c9a9c8a065904a7eed3d62f39c19f3e684940fc8f0d0c179c8cdb6411cef",
+      "git_blob_sha1": "b508268b4f88baebf1a6c169beb79d450beefca0",
+      "source_figure_or_table": "table-03-training",
+      "official_source_url": "https://arxiv.org/html/2606.19970v1",
+      "modifications": "Raster excerpt, lossless WebP conversion."
+    },
+    {
+      "path": "table-04-toy.webp",
+      "bytes": 28086,
+      "sha256": "b435bfd713774f20c95b2b311e8f99ad8ded6617ba0cde0ea3efc8326cfcadb0",
+      "git_blob_sha1": "9133b4dcb9f1b2586bd7f8335b5e3bc8f302d95f",
+      "source_figure_or_table": "table-04-toy",
+      "official_source_url": "https://arxiv.org/html/2606.19970v1",
+      "modifications": "Raster excerpt, lossless WebP conversion."
+    },
+    {
+      "path": "figure-05-decoder.webp",
+      "bytes": 19872,
+      "sha256": "d0d74e27e3f1ae207ea1d7f2858cce132398c73a3071054220f92f8912b00159",
+      "git_blob_sha1": "4875e78a664bee606cf9f75a2d57e0f304fc3bd5",
+      "source_figure_or_table": "figure-05-decoder",
       "official_source_url": "https://arxiv.org/html/2606.19970v1",
       "modifications": "Raster excerpt, lossless WebP conversion."
     }
