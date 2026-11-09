@@ -20,3 +20,39 @@ Bryan Sangwoo Kim, Jeongsol Kim, Jong Chul Ye; Chain-of-Zoom: Extreme Super-Reso
 - Caption: Figure 10: (a) Mean opinion scores for image generation. (b) Mean opinion scores for text generation. The scores on each bar denote the means and the error bars represent standard deviation. Significance of scores are denoted as, *: p < 0.05, **: p < 0.01, ***: p < 0.001.
 
 The licensing correspondence was reviewed for this figure and its caption only; no claim is made that the complete conference PDF and arXiv paper are identical or that unrelated images are covered.
+
+## Table 3 — Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment
+
+Authors: Bryan Sangwoo Kim, Jeongsol Kim, Jong Chul Ye.
+
+Exact image: `cz-runtime-4f718a89e52b.png`. SHA-256: `4f718a89e52b1437955d8d512ab868cddc91b1a78ba4864587d9c10b0655ae1f`.
+
+Original caption: Table 3: Runtime analysis for different methods (seconds).
+
+Fixed-version source: https://arxiv.org/html/2505.18600v3#S4.T3
+
+Conference source: https://proceedings.neurips.cc/paper_files/paper/2025/file/b66d8cbb01ac8212830068f3d75b4c5c-Paper-Conference.pdf#page=10
+
+License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
+
+Cropped and rasterized from the official conference PDF for display. The PNG includes the original table caption, whitespace and layout. No values, labels, captions, pixels or dimensions have been modified in this copy. Official HTML typesetting differs; byte or pixel identity with HTML is not claimed.
+
+This record covers only this exact numerical table excerpt, not other paper images, datasets, code, model weights or third-party photographic material.
+
+## Table 5 — Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment
+
+Authors: Bryan Sangwoo Kim, Jeongsol Kim, Jong Chul Ye.
+
+Exact image: `cz-critic-table-9c634a4e70fa.png`. SHA-256: `9c634a4e70fa64c89312edb775651dc3f52945a5acbb849b2e4ac3d35e9effa4`.
+
+Original caption: Table 5: Quantitative results using Qwen2.5-VL-7B-Instruct as the critic VLM.
+
+Fixed-version source: https://arxiv.org/html/2505.18600v3#A6.T5
+
+Conference source: https://proceedings.neurips.cc/paper_files/paper/2025/file/b66d8cbb01ac8212830068f3d75b4c5c-Paper-Conference.pdf#page=19
+
+License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
+
+Cropped and rasterized from the official conference PDF for display. The PNG includes the original table caption, whitespace and layout. No values, labels, captions, pixels or dimensions have been modified in this copy. Official HTML typesetting differs; byte or pixel identity with HTML is not claimed.
+
+This record covers only this exact numerical table excerpt, not other paper images, datasets, code, model weights or third-party photographic material.

@@ -192,6 +192,112 @@
       "repository_path": "papers/dp2osr/arxiv-2510.18851v1/dp2o-stats-flux-66a1b2bc0e01.png",
       "git_blob_sha1": "f86392e3380defe24a9ccd24aa565ca94d78fde4",
       "file": "dp2o-stats-flux-66a1b2bc0e01.png"
+    },
+    {
+      "asset_key": "dp2osr-2025/dp2o-hpo",
+      "repository_path": "papers/dp2osr/arxiv-2510.18851v1/dp2o-hpo-050df92f3609.png",
+      "sha256": "050df92f3609c42f95d0f987c3b4b0b115e9b2b73a05113a27b6e64bdb95efa6",
+      "git_blob_sha1": "d39f7fdf8a3a854248c3f73fa7da133bc720c2ad",
+      "bytes": 15530,
+      "dimensions": [
+        507,
+        165
+      ],
+      "rgba_sha256": "5b65404bc58c15e6389e629977903d0a446a276fe39721c1b9031fd3dc00ea9b",
+      "title": "DP2O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution",
+      "authors": [
+        "Rongyuan Wu",
+        "Lingchen Sun",
+        "Zhengqiang Zhang",
+        "Shihao Wang",
+        "Tianhe Wu",
+        "Qiaosi Yi",
+        "Shuai Li",
+        "Lei Zhang"
+      ],
+      "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/fae0a4535196bf7715c1aef2ccfe283f-Paper-Conference.pdf#page=22",
+      "source_pdf_sha256": "a6098f3889cab40a46c10f9c01d383398a37b6e480dbe3d7174577364b3126f5",
+      "source_pdf_page": 22,
+      "source_crop_pdf_points": [
+        310,
+        398,
+        479,
+        453
+      ],
+      "official_fixed_version_url": "https://arxiv.org/html/2510.18851v1",
+      "official_table_url": "https://arxiv.org/html/2510.18851v1#A1.T3",
+      "table_number": "Table 3",
+      "caption": "Table 3: Ablation study on HPO.",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": "The official fixed-version paper HTML explicitly identifies License: CC BY 4.0. This selected numerical table and its caption were individually matched to the display excerpt; no separate rights exception was found for this table.",
+      "changes": "Cropped and rasterized from the official conference PDF for display. The PNG includes the original table caption, whitespace and layout. No values, labels, captions, pixels or dimensions have been modified in this copy. Official HTML typesetting differs; byte or pixel identity with HTML is not claimed.",
+      "scope": "This record covers only this exact numerical table excerpt, not other paper images, datasets, code, model weights or third-party photographic material.",
+      "file": "dp2o-hpo-050df92f3609.png",
+      "source_locator": "Table 3",
+      "source_page": 22,
+      "licensed_version_url": "https://arxiv.org/html/2510.18851v1",
+      "modifications": "Cropped and rasterized from the official conference PDF for display. The PNG includes the original table caption, whitespace and layout. No values, labels, captions, pixels or dimensions have been modified in this copy. Official HTML typesetting differs; byte or pixel identity with HTML is not claimed.",
+      "official_captions": [
+        "Table 3: Ablation study on HPO."
+      ],
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2510.18851v1#A1.T3"
+      ],
+      "attribution": "Rongyuan Wu, Lingchen Sun, Zhengqiang Zhang, Shihao Wang, Tianhe Wu, Qiaosi Yi, Shuai Li, Lei Zhang; DP2O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution; Table 3; https://arxiv.org/html/2510.18851v1#A1.T3; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Cropped and rasterized from the official conference PDF for display. The PNG includes the original table caption, whitespace and layout. No values, labels, captions, pixels or dimensions have been modified in this copy. Official HTML typesetting differs; byte or pixel identity with HTML is not claimed."
+    },
+    {
+      "asset_key": "dp2osr-2025/dp2o-seeds",
+      "repository_path": "papers/dp2osr/arxiv-2510.18851v1/dp2o-seeds-a5df45c18142.png",
+      "sha256": "a5df45c18142259ba37f33ea12a6daf5e884aca6abae5b99b92e25099388ec7a",
+      "git_blob_sha1": "b914b446d300e01615930cb8f3f23015644679a9",
+      "bytes": 53517,
+      "dimensions": [
+        1206,
+        228
+      ],
+      "rgba_sha256": "e66bb987f217a46b90b2f22f50e84bce3652a70d74cbcb2142a1b351b164a8c0",
+      "title": "DP2O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution",
+      "authors": [
+        "Rongyuan Wu",
+        "Lingchen Sun",
+        "Zhengqiang Zhang",
+        "Shihao Wang",
+        "Tianhe Wu",
+        "Qiaosi Yi",
+        "Shuai Li",
+        "Lei Zhang"
+      ],
+      "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/fae0a4535196bf7715c1aef2ccfe283f-Paper-Conference.pdf#page=10",
+      "source_pdf_sha256": "a6098f3889cab40a46c10f9c01d383398a37b6e480dbe3d7174577364b3126f5",
+      "source_pdf_page": 10,
+      "source_crop_pdf_points": [
+        105,
+        75,
+        507,
+        151
+      ],
+      "official_fixed_version_url": "https://arxiv.org/html/2510.18851v1",
+      "official_table_url": "https://arxiv.org/html/2510.18851v1#S5.T2",
+      "table_number": "Table 2",
+      "caption": "Table 2: Performance comparison of different methods on RealSR bench [5].",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": "The official fixed-version paper HTML explicitly identifies License: CC BY 4.0. This selected numerical table and its caption were individually matched to the display excerpt; no separate rights exception was found for this table.",
+      "changes": "Cropped and rasterized from the official conference PDF for display. The PNG includes the original table caption, whitespace and layout. No values, labels, captions, pixels or dimensions have been modified in this copy. Official HTML typesetting differs; byte or pixel identity with HTML is not claimed.",
+      "scope": "This record covers only this exact numerical table excerpt, not other paper images, datasets, code, model weights or third-party photographic material.",
+      "file": "dp2o-seeds-a5df45c18142.png",
+      "source_locator": "Table 2",
+      "source_page": 10,
+      "licensed_version_url": "https://arxiv.org/html/2510.18851v1",
+      "modifications": "Cropped and rasterized from the official conference PDF for display. The PNG includes the original table caption, whitespace and layout. No values, labels, captions, pixels or dimensions have been modified in this copy. Official HTML typesetting differs; byte or pixel identity with HTML is not claimed.",
+      "official_captions": [
+        "Table 2: Performance comparison of different methods on RealSR bench [5]."
+      ],
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2510.18851v1#S5.T2"
+      ],
+      "attribution": "Rongyuan Wu, Lingchen Sun, Zhengqiang Zhang, Shihao Wang, Tianhe Wu, Qiaosi Yi, Shuai Li, Lei Zhang; DP2O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution; Table 2; https://arxiv.org/html/2510.18851v1#S5.T2; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Cropped and rasterized from the official conference PDF for display. The PNG includes the original table caption, whitespace and layout. No values, labels, captions, pixels or dimensions have been modified in this copy. Official HTML typesetting differs; byte or pixel identity with HTML is not claimed."
     }
   ]
 }

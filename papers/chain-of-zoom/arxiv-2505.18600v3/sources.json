@@ -72,6 +72,102 @@
       "repository_path": "papers/chain-of-zoom/arxiv-2505.18600v3/cz-mos-442dc7574861.png",
       "git_blob_sha1": "4e42b07f2e9d0fe5cf889e56b37ae2b4e3037a34",
       "file": "cz-mos-442dc7574861.png"
+    },
+    {
+      "asset_key": "chain-of-zoom-2025/cz-runtime",
+      "repository_path": "papers/chain-of-zoom/arxiv-2505.18600v3/cz-runtime-4f718a89e52b.png",
+      "sha256": "4f718a89e52b1437955d8d512ab868cddc91b1a78ba4864587d9c10b0655ae1f",
+      "git_blob_sha1": "05648a102e05c5bc30711d7b2a0123e0498859d0",
+      "bytes": 41181,
+      "dimensions": [
+        742,
+        304
+      ],
+      "rgba_sha256": "987bbcab5463c9b64d90e7ced62024f08ed745966bcecf0d0d0e1ac95d454217",
+      "title": "Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment",
+      "authors": [
+        "Bryan Sangwoo Kim",
+        "Jeongsol Kim",
+        "Jong Chul Ye"
+      ],
+      "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/b66d8cbb01ac8212830068f3d75b4c5c-Paper-Conference.pdf#page=10",
+      "source_pdf_sha256": "5f2a59f48ce1f35d3d9365e3bb5c51988e792c9e13f4f15ac2ed3e69ba6151c1",
+      "source_pdf_page": 10,
+      "source_crop_pdf_points": [
+        132,
+        269,
+        485,
+        413
+      ],
+      "official_fixed_version_url": "https://arxiv.org/html/2505.18600v3",
+      "official_table_url": "https://arxiv.org/html/2505.18600v3#S4.T3",
+      "table_number": "Table 3",
+      "caption": "Table 3: Runtime analysis for different methods (seconds).",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": "The official fixed-version paper HTML explicitly identifies License: CC BY 4.0. This selected numerical table and its caption were individually matched to the display excerpt; no separate rights exception was found for this table.",
+      "changes": "Cropped and rasterized from the official conference PDF for display. The PNG includes the original table caption, whitespace and layout. No values, labels, captions, pixels or dimensions have been modified in this copy. Official HTML typesetting differs; byte or pixel identity with HTML is not claimed.",
+      "scope": "This record covers only this exact numerical table excerpt, not other paper images, datasets, code, model weights or third-party photographic material.",
+      "file": "cz-runtime-4f718a89e52b.png",
+      "source_locator": "Table 3",
+      "source_page": 10,
+      "licensed_version_url": "https://arxiv.org/html/2505.18600v3",
+      "modifications": "Cropped and rasterized from the official conference PDF for display. The PNG includes the original table caption, whitespace and layout. No values, labels, captions, pixels or dimensions have been modified in this copy. Official HTML typesetting differs; byte or pixel identity with HTML is not claimed.",
+      "official_captions": [
+        "Table 3: Runtime analysis for different methods (seconds)."
+      ],
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2505.18600v3#S4.T3"
+      ],
+      "attribution": "Bryan Sangwoo Kim, Jeongsol Kim, Jong Chul Ye; Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment; Table 3; https://arxiv.org/html/2505.18600v3#S4.T3; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Cropped and rasterized from the official conference PDF for display. The PNG includes the original table caption, whitespace and layout. No values, labels, captions, pixels or dimensions have been modified in this copy. Official HTML typesetting differs; byte or pixel identity with HTML is not claimed."
+    },
+    {
+      "asset_key": "chain-of-zoom-2025/cz-critic-table",
+      "repository_path": "papers/chain-of-zoom/arxiv-2505.18600v3/cz-critic-table-9c634a4e70fa.png",
+      "sha256": "9c634a4e70fa64c89312edb775651dc3f52945a5acbb849b2e4ac3d35e9effa4",
+      "git_blob_sha1": "4438a569e9e8b1f1a4ae604ee3e22a5e583ca252",
+      "bytes": 56791,
+      "dimensions": [
+        849,
+        265
+      ],
+      "rgba_sha256": "5e828dc5717acc8631a9ea3dc2e65e22caaa9f972078a2cc1c98350ec9f3b1a1",
+      "title": "Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment",
+      "authors": [
+        "Bryan Sangwoo Kim",
+        "Jeongsol Kim",
+        "Jong Chul Ye"
+      ],
+      "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/b66d8cbb01ac8212830068f3d75b4c5c-Paper-Conference.pdf#page=19",
+      "source_pdf_sha256": "5f2a59f48ce1f35d3d9365e3bb5c51988e792c9e13f4f15ac2ed3e69ba6151c1",
+      "source_pdf_page": 19,
+      "source_crop_pdf_points": [
+        105,
+        124,
+        509,
+        250
+      ],
+      "official_fixed_version_url": "https://arxiv.org/html/2505.18600v3",
+      "official_table_url": "https://arxiv.org/html/2505.18600v3#A6.T5",
+      "table_number": "Table 5",
+      "caption": "Table 5: Quantitative results using Qwen2.5-VL-7B-Instruct as the critic VLM.",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_evidence": "The official fixed-version paper HTML explicitly identifies License: CC BY 4.0. This selected numerical table and its caption were individually matched to the display excerpt; no separate rights exception was found for this table.",
+      "changes": "Cropped and rasterized from the official conference PDF for display. The PNG includes the original table caption, whitespace and layout. No values, labels, captions, pixels or dimensions have been modified in this copy. Official HTML typesetting differs; byte or pixel identity with HTML is not claimed.",
+      "scope": "This record covers only this exact numerical table excerpt, not other paper images, datasets, code, model weights or third-party photographic material.",
+      "file": "cz-critic-table-9c634a4e70fa.png",
+      "source_locator": "Table 5",
+      "source_page": 19,
+      "licensed_version_url": "https://arxiv.org/html/2505.18600v3",
+      "modifications": "Cropped and rasterized from the official conference PDF for display. The PNG includes the original table caption, whitespace and layout. No values, labels, captions, pixels or dimensions have been modified in this copy. Official HTML typesetting differs; byte or pixel identity with HTML is not claimed.",
+      "official_captions": [
+        "Table 5: Quantitative results using Qwen2.5-VL-7B-Instruct as the critic VLM."
+      ],
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2505.18600v3#A6.T5"
+      ],
+      "attribution": "Bryan Sangwoo Kim, Jeongsol Kim, Jong Chul Ye; Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment; Table 5; https://arxiv.org/html/2505.18600v3#A6.T5; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; Cropped and rasterized from the official conference PDF for display. The PNG includes the original table caption, whitespace and layout. No values, labels, captions, pixels or dimensions have been modified in this copy. Official HTML typesetting differs; byte or pixel identity with HTML is not claimed."
     }
   ]
 }
