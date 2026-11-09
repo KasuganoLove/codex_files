@@ -1,0 +1,197 @@
+{
+  "schema": "public-paper-image-sources-1",
+  "scope": "Only individually reviewed paper image bytes and attribution; no datasets, code, model weights, full paper PDFs, private notes or credentials.",
+  "canonical_source_recovery": "These objects preserve the exact PNG bytes of the cited figure excerpts. Official original links remain identified in their source records. Runtime adoption and source retirement are separate steps.",
+  "assets": [
+    {
+      "asset_key": "dp2osr-2025/dp2o-fig1b",
+      "sha256": "5f783e07b2cabab690322aee383eea7944e4a1d01f2c0f1508c08b529973c5d1",
+      "bytes": 100580,
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "rgba_sha256": "e464d93f069fe8c873bb8db62db6171fd977a7985d27075c227b7e46befce4bd",
+      "title": "DP2O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution",
+      "authors": [
+        "Rongyuan Wu",
+        "Lingchen Sun",
+        "Zhengqiang Zhang",
+        "Shihao Wang",
+        "Tianhe Wu",
+        "Qiaosi Yi",
+        "Shuai Li",
+        "Lei Zhang"
+      ],
+      "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/fae0a4535196bf7715c1aef2ccfe283f-Paper-Conference.pdf#page=2",
+      "source_locator": "Figure1(b)：前500步与训练曲线",
+      "source_page": 2,
+      "licensed_version_url": "https://arxiv.org/html/2510.18851v1",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "PNG re-encoding/extraction; pixel content is identical to official original PNG.",
+      "official_captions": [
+        "Figure 1: (a) Visual results of models trained with FR, NR, and hybrid rewards. FR reward suppresses detail, NR reward encourages hallucinations, while the hybrid reward preserves structure and improves realism. (b) DP²O-SR significantly boosts perceptual quality on the out-of-domain RealSR benchmark [5], improving both small and large generative Real-ISR models after only 500 steps. Larger models like C-FLUX benefit more from preference supervision."
+      ],
+      "attribution": "Rongyuan Wu, Lingchen Sun, Zhengqiang Zhang, Shihao Wang, Tianhe Wu, Qiaosi Yi, Shuai Li, Lei Zhang; DP2O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution; Figure1(b)：前500步与训练曲线; https://arxiv.org/html/2510.18851v1; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; PNG re-encoding/extraction; pixel content is identical to official original PNG.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2510.18851v1#S1.F1.sf2"
+      ],
+      "repository_path": "papers/dp2osr/arxiv-2510.18851v1/dp2o-fig1b-5f783e07b2ca.png",
+      "git_blob_sha1": "e95af79e91201414dbfdf10e46e99f0b48fe94f7",
+      "file": "dp2o-fig1b-5f783e07b2ca.png"
+    },
+    {
+      "asset_key": "dp2osr-2025/dp2o-curation-sd2",
+      "sha256": "ec42b6c6060451d75024b7694869bda287434754f295e692d961f817b986f710",
+      "bytes": 904425,
+      "dimensions": [
+        5400,
+        5400
+      ],
+      "rgba_sha256": "9d96ec90d56a8b7fa58d18b259f633838a738c01f628bea2fe58f8b3cc70858e",
+      "title": "DP2O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution",
+      "authors": [
+        "Rongyuan Wu",
+        "Lingchen Sun",
+        "Zhengqiang Zhang",
+        "Shihao Wang",
+        "Tianhe Wu",
+        "Qiaosi Yi",
+        "Shuai Li",
+        "Lei Zhang"
+      ],
+      "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/fae0a4535196bf7715c1aef2ccfe283f-Paper-Conference.pdf#page=9",
+      "source_locator": "Figure4(a)：SD2的M与N/M",
+      "source_page": 9,
+      "licensed_version_url": "https://arxiv.org/html/2510.18851v1",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "PNG re-encoding/extraction; pixel content is identical to official original PNG.",
+      "official_captions": [
+        "Figure 4: Training curves of DP2O-SR on SD2 and FLUX under varying MM and N/MN/M configurations. Larger MM generally improves reward, while optimal N/MN/M differs across model capacities."
+      ],
+      "attribution": "Rongyuan Wu, Lingchen Sun, Zhengqiang Zhang, Shihao Wang, Tianhe Wu, Qiaosi Yi, Shuai Li, Lei Zhang; DP2O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution; Figure4(a)：SD2的M与N/M; https://arxiv.org/html/2510.18851v1; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; PNG re-encoding/extraction; pixel content is identical to official original PNG.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2510.18851v1#S5.F4.fig1"
+      ],
+      "repository_path": "papers/dp2osr/arxiv-2510.18851v1/dp2o-curation-sd2-ec42b6c60604.png",
+      "git_blob_sha1": "1dc733ee3fb9b997eb53baf1063cfd77f8586bc7",
+      "file": "dp2o-curation-sd2-ec42b6c60604.png"
+    },
+    {
+      "asset_key": "dp2osr-2025/dp2o-curation-flux",
+      "sha256": "85d43259d663b16f84639451245cd74ff8ff8222533be9b87f7ae8f022a255f2",
+      "bytes": 902344,
+      "dimensions": [
+        5400,
+        5400
+      ],
+      "rgba_sha256": "258de8e00938e09f6c41c302922ba2225ac48d6089d255aae20ecff372e29f5f",
+      "title": "DP2O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution",
+      "authors": [
+        "Rongyuan Wu",
+        "Lingchen Sun",
+        "Zhengqiang Zhang",
+        "Shihao Wang",
+        "Tianhe Wu",
+        "Qiaosi Yi",
+        "Shuai Li",
+        "Lei Zhang"
+      ],
+      "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/fae0a4535196bf7715c1aef2ccfe283f-Paper-Conference.pdf#page=9",
+      "source_locator": "Figure4(b)：FLUX的M与N/M",
+      "source_page": 9,
+      "licensed_version_url": "https://arxiv.org/html/2510.18851v1",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "PNG re-encoding/extraction; pixel content is identical to official original PNG.",
+      "official_captions": [
+        "Figure 4: Training curves of DP2O-SR on SD2 and FLUX under varying MM and N/MN/M configurations. Larger MM generally improves reward, while optimal N/MN/M differs across model capacities."
+      ],
+      "attribution": "Rongyuan Wu, Lingchen Sun, Zhengqiang Zhang, Shihao Wang, Tianhe Wu, Qiaosi Yi, Shuai Li, Lei Zhang; DP2O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution; Figure4(b)：FLUX的M与N/M; https://arxiv.org/html/2510.18851v1; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; PNG re-encoding/extraction; pixel content is identical to official original PNG.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2510.18851v1#S5.F4.fig2"
+      ],
+      "repository_path": "papers/dp2osr/arxiv-2510.18851v1/dp2o-curation-flux-85d43259d663.png",
+      "git_blob_sha1": "ff1a4e2cbf69ef3aaad64c886f2047d7c65469b9",
+      "file": "dp2o-curation-flux-85d43259d663.png"
+    },
+    {
+      "asset_key": "dp2osr-2025/dp2o-stats-sd2",
+      "sha256": "97b5f0a75c78734485a3353fbb6710e1febafa0a4682a3dc409aa9d37863ba5c",
+      "bytes": 245041,
+      "dimensions": [
+        2350,
+        1441
+      ],
+      "rgba_sha256": "eff73be34f133d3c9cd0748144ae4d4030ca2856aa417a36b3ac67310a91a684",
+      "title": "DP2O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution",
+      "authors": [
+        "Rongyuan Wu",
+        "Lingchen Sun",
+        "Zhengqiang Zhang",
+        "Shihao Wang",
+        "Tianhe Wu",
+        "Qiaosi Yi",
+        "Shuai Li",
+        "Lei Zhang"
+      ],
+      "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/fae0a4535196bf7715c1aef2ccfe283f-Paper-Conference.pdf#page=9",
+      "source_locator": "Figure5(a)：SD2的Best/Mean/Worst",
+      "source_page": 9,
+      "licensed_version_url": "https://arxiv.org/html/2510.18851v1",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "PNG re-encoding/extraction; pixel content is identical to official original PNG.",
+      "official_captions": [
+        "Figure 5: Perceptual reward statistics by increasing sample count MM on (a) C-SD2 and (b) C-FLUX backbones. In both cases, the baseline models (solid) show a widening quality range with more samples, while DP2O-SR (dashed) consistently improves all statistics—especially Worst@M—highlighting stronger robustness and reduced output variability."
+      ],
+      "attribution": "Rongyuan Wu, Lingchen Sun, Zhengqiang Zhang, Shihao Wang, Tianhe Wu, Qiaosi Yi, Shuai Li, Lei Zhang; DP2O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution; Figure5(a)：SD2的Best/Mean/Worst; https://arxiv.org/html/2510.18851v1; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; PNG re-encoding/extraction; pixel content is identical to official original PNG.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2510.18851v1#S5.F5.fig1"
+      ],
+      "repository_path": "papers/dp2osr/arxiv-2510.18851v1/dp2o-stats-sd2-97b5f0a75c78.png",
+      "git_blob_sha1": "5e71628b9d7678b6120f58124cb3eb135b4f66af",
+      "file": "dp2o-stats-sd2-97b5f0a75c78.png"
+    },
+    {
+      "asset_key": "dp2osr-2025/dp2o-stats-flux",
+      "sha256": "66a1b2bc0e018cb33c6d760026fce1cfa6d5ad6e5047f950d51641d5f38a15ca",
+      "bytes": 249061,
+      "dimensions": [
+        2350,
+        1441
+      ],
+      "rgba_sha256": "134feb07c431f0b72b0e5ee64fe97da371482588032a85a3b665d570b570390d",
+      "title": "DP2O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution",
+      "authors": [
+        "Rongyuan Wu",
+        "Lingchen Sun",
+        "Zhengqiang Zhang",
+        "Shihao Wang",
+        "Tianhe Wu",
+        "Qiaosi Yi",
+        "Shuai Li",
+        "Lei Zhang"
+      ],
+      "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/fae0a4535196bf7715c1aef2ccfe283f-Paper-Conference.pdf#page=9",
+      "source_locator": "Figure5(b)：FLUX的Best/Mean/Worst",
+      "source_page": 9,
+      "licensed_version_url": "https://arxiv.org/html/2510.18851v1",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "PNG re-encoding/extraction; pixel content is identical to official original PNG.",
+      "official_captions": [
+        "Figure 5: Perceptual reward statistics by increasing sample count MM on (a) C-SD2 and (b) C-FLUX backbones. In both cases, the baseline models (solid) show a widening quality range with more samples, while DP2O-SR (dashed) consistently improves all statistics—especially Worst@M—highlighting stronger robustness and reduced output variability."
+      ],
+      "attribution": "Rongyuan Wu, Lingchen Sun, Zhengqiang Zhang, Shihao Wang, Tianhe Wu, Qiaosi Yi, Shuai Li, Lei Zhang; DP2O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution; Figure5(b)：FLUX的Best/Mean/Worst; https://arxiv.org/html/2510.18851v1; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; PNG re-encoding/extraction; pixel content is identical to official original PNG.",
+      "exact_licensed_figure_urls": [
+        "https://arxiv.org/html/2510.18851v1#S5.F5.fig2"
+      ],
+      "repository_path": "papers/dp2osr/arxiv-2510.18851v1/dp2o-stats-flux-66a1b2bc0e01.png",
+      "git_blob_sha1": "f86392e3380defe24a9ccd24aa565ca94d78fde4",
+      "file": "dp2o-stats-flux-66a1b2bc0e01.png"
+    }
+  ]
+}
