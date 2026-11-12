@@ -1,0 +1,74 @@
+{
+  "paper": "AstraMoE-SR: Trajectory-Guided Diffusion for Blind Satellite Jitter Deblurring and Super-Resolution",
+  "authors": [
+    "Yi-Chung Lai",
+    "Chin-Tien Wu",
+    "Yu-Chih Chen"
+  ],
+  "source": "https://arxiv.org/pdf/2609.07012v1",
+  "source_record": "https://arxiv.org/abs/2609.07012v1",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "license_evidence": "Official arXiv abs Rights to this article link and HTML License: CC BY 4.0, checked 2026-11-12.",
+  "source_pdf_sha256": "9c1d2f49ddc0a70333d5d70ea2fbc49745a99d0e5ff5c87f7f984e8daaa13cbe",
+  "attribution": "Figures © the paper authors; reused under CC BY 4.0. Cropping/rendering indicated per file. No endorsement implied.",
+  "scope": "Four paper figure crops only; not a grant of rights to underlying third-party datasets.",
+  "figures": [
+    {
+      "file": "figure-1.png",
+      "figure": 1,
+      "pdf_page": 3,
+      "bytes": 128322,
+      "sha256": "0cbc58e425977fd844668b96599ec3f3e7f3231067124cffda6ba6f108259736",
+      "crop_pdf_points": [
+        54.421988682295876,
+        69.3,
+        294.373484236055,
+        203.94
+      ],
+      "changes": "Rendered and cropped from fixed PDF to PNG; no scientific-content edits."
+    },
+    {
+      "file": "figure-2.png",
+      "figure": 2,
+      "pdf_page": 4,
+      "bytes": 63517,
+      "sha256": "a67171a38caa4e5e6f599ccaacff123dcc49922675950ccf376c8bcf31779718",
+      "crop_pdf_points": [
+        118.73888439773647,
+        69.3,
+        489.79789814066294,
+        272.25
+      ],
+      "changes": "Rendered and cropped from fixed PDF to PNG; no scientific-content edits."
+    },
+    {
+      "file": "figure-3.png",
+      "figure": 3,
+      "pdf_page": 6,
+      "bytes": 266442,
+      "sha256": "a1693bfb1b65c3ae5cc969c0d2fb2a47e5d3153500925d8e682a20668d33222c",
+      "crop_pdf_points": [
+        103.8965238480194,
+        262.35,
+        512.0614389652385,
+        401.94
+      ],
+      "changes": "Rendered and cropped from fixed PDF to PNG; no scientific-content edits."
+    },
+    {
+      "file": "figure-4.png",
+      "figure": 4,
+      "pdf_page": 7,
+      "bytes": 241030,
+      "sha256": "e8aa76aec5061989b16e38684d1ee795ec89f130625589e980d2b9b5d18bf707",
+      "crop_pdf_points": [
+        101.42279708973322,
+        71.775,
+        509.58771220695235,
+        222.255
+      ],
+      "changes": "Rendered and cropped from fixed PDF to PNG; no scientific-content edits."
+    }
+  ]
+}
